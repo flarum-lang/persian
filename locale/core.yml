@@ -208,7 +208,7 @@ core:
       view_user_list_label: 'View user list'
     permissions_controls:
       allow_indefinitely_button: 'برای همیشه'
-      allow_some_minutes_button: 'برای {count} دقیقه|برای {count} دقیقه'
+      allow_some_minutes_button: '{count, plural, one {برای # دقیقه} other {برای # دقیقه}}'
       allow_ten_minutes_button: 'برای 10 دقیقه'
       allow_until_reply_button: 'تا ارسال بعدی'
       everyone_button: همه
@@ -307,7 +307,7 @@ core:
       delete_button: '=> core.ref.delete'
       delete_confirmation: 'برای حذف این مبحث مطمئن هستید؟'
       delete_forever_button: '=> core.ref.delete_forever'
-      log_in_to_reply_button: 'برای ارسال پاسخ وارد شوید'
+      log_in_to_reply_button: 'وارد شوید'
       rename_button: '=> core.ref.rename'
       reply_button: '=> core.ref.reply'
       restore_button: '=> core.ref.restore'
@@ -318,6 +318,8 @@ core:
       mark_as_read_tooltip: 'علامت به‌عنوان خوانده‌شده'
       replied_text: '{username} در {ago} پاسخ داد'
       started_text: '{username} در {ago} شروع نمود'
+      total_replies_a11y_label: '{count, plural, one {# پاسخ} other {# پاسخ}}'
+      unread_replies_a11y_label: '{count, plural, one {# پاسخ خوانده نشده} other {# پاسخ خوانده نشده}}. انتخاب {count, plural, one {پاسخ} other {پاسخ های}} خوانده نشده به عنوان خوانده شده.'
     edit_user:
       activate_button: 'فعال کردن کاربر'
       email_heading: '=> core.ref.email'
@@ -400,7 +402,7 @@ core:
       now_link: هم‌اکنون
       original_post_link: 'نوشته اصلی'
       unread_text: '{count} خوانده‌نشده'
-      viewing_text: '{index} از {count} نوشته|{index} از {count} نوشته'
+      viewing_text: '{count, plural, one {{index} از {formattedCount} نوشته} other {{index} از {formattedCount} نوشته}}'
     post_stream:
       discussion_renamed_old_tooltip: 'عنوان قدیمی: "{old}"'
       discussion_renamed_text: '{username} عنوان را به {new} تغییر داد.'
@@ -552,7 +554,7 @@ core:
     save_changes: 'ذخیره تغییرات'
     settings: تنظیمات
     sign_up: 'ثبت‌ نام'
-    some_others: '{count} دیگر|{count} دیگر'
+    some_others: '{count, plural, one {# دیگر} other {# دیگر}}'
     start_a_discussion: 'شروع بحث جدید'
     username: 'نام کاربری'
     users: کاربران
@@ -605,6 +607,9 @@ core:
       log_out_button: '=> core.ref.log_out'
       log_out_confirmation: 'آیا اطمینان دارید که می خواهید از {forum} خارج شوید؟'
       title: '=> core.ref.log_out'
+    meta_titles:
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: صفحه # - {forumName}}}'
+      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {صفحه # - {forumName}}}'
     reset_password:
       confirm_password_label: 'تائید گذرواژه جدید'
       new_password_label: 'گذرواژه جدید'
