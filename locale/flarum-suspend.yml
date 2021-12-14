@@ -5,19 +5,35 @@
 flarum-suspend:
   admin:
     permissions:
-      suspend_users_label: 'Suspend users'
+      suspend_users_label: 'کاربران مسدود شده'
+  email:
+    suspended:
+      body: "سلام {recipient_display_name}،\n\nشما به دلایل زیر تعلیق شده اید:\n\n---\n{suspension_message}\n---\n"
+      subject: 'حساب شما مسدود شده است'
+    unsuspended:
+      body: "سلام {recipient_display_name}،\n\nشما رفع تعلیق شده اید. با کلیک بر روی لینک زیر می توانید به انجمن بازگردید:\n\n{forum_url}\n"
+      subject: 'حساب شما لغو تعلیق شده است'
   forum:
     notifications:
-      user_suspended_text: '{username} شما را برای {timeReadable} تعلیق کرد'
-      user_unsuspended_text: '{username} شما را تعلیق کرد'
+      user_suspended_indefinite_text: 'شما برای مدت نامحدودی تعلیق شده اید'
+      user_suspended_text: 'شما برای {timeReadable} تعلیق شدید'
+      user_unsuspended_text: 'شما رفع تعویق شده اید'
     suspend_user:
+      display_message: 'نمایش پیام برای کاربر'
       indefinitely_label: 'تعلیق برای همیشه'
-      limited_time_days_text: روز
+      limited_time_days_text: ' روز'
       limited_time_label: 'تعلیق برای زمانی مشخص...'
       not_suspended_label: 'تعلیق نشده'
+      placeholder_optional: اختیاری
+      reason: 'دلیل تعلیق'
       status_heading: 'وضعیت تعلیق'
       submit_button: '=> core.ref.save_changes'
       title: 'تعلیق {username}'
+    suspension_info:
+      dismiss_button: 'رد کردن'
+      indefinite: 'این یک تعلیق نامحدود است'
+      limited: 'این تعلیق تا {date} قابل اجرا خواهد بود'
+      title: 'این حساب به حالت تعلیق درآمده است'
     user_badge:
       suspended_tooltip: 'تعلیق شده'
     user_controls:

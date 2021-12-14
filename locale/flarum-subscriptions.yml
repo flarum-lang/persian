@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-subscriptions:
+  email:
+    new_post:
+      subject: '[نوشته جدید] {title}'
   forum:
     badge:
       following_tooltip: '=> flarum-subscriptions.ref.following'
