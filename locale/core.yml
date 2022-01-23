@@ -472,6 +472,8 @@ core:
     mod: مدیر
     mods: مدیران
   lib:
+    alert:
+      dismiss_a11y_label: 'لغو هشدار'
     badge:
       hidden_tooltip: پنهان
     debug_button: دیباگ
