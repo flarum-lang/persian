@@ -77,6 +77,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-drafts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-drafts/fa/) |
 
 <!-- fof-extensions-list-stop -->
 
