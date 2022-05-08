@@ -33,4 +33,4 @@ dayjs.locale({
     y: 'یک سال',
     yy: '%d سال'
   }
-}, null, true);
+}, null, false);
