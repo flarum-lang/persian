@@ -88,6 +88,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/clarkwinkelmann-author-change/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-author-change/fa/) |
 
 <!-- various-extensions-list-stop -->
 
