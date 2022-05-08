@@ -89,6 +89,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/clarkwinkelmann-author-change/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-author-change/fa/) |
+| [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/datlechin-birthdays/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-birthdays/fa/) |
 
 <!-- various-extensions-list-stop -->
 
