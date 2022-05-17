@@ -12,8 +12,14 @@ fof-merge-discussions:
   api:
     error:
       deleting_failed: 'بحث های خالی حذف نشد.'
+      fixing_posts_number_failed: 'شماره پست‌ها اصلاح نشد.'
+      fixing_posts_number_meta_failed: 'شماره پست‌ها اصلاح نشد.'
       merging_failed: 'ادغام بحث ها انجام نشد.'
       updating_failed: 'جزئیات بحث به روز نشد.'
+  email:
+    merged:
+      body: "سلام {recipient_display_name}،\n\nبحث شما، {merged_discussion_title}، توسط {actor_display_name} در {discussion_title} ادغام شد.\n\nاینجا {discussion_url} را مشاهده کنید.\n"
+      subject: 'بحث شما "{merged_discussion_title}" ادغام شد'
   forum:
     modal:
       load_preview_button: 'پیش نمایش'
@@ -34,3 +40,5 @@ fof-merge-discussions:
         discussion_merged: 'شخصی یکی از بحث های من را با دیگری ادغام می کند'
     post:
       merged: '{count, plural, one {پست <b>#</b> ادغام شد از {titles}.} other {پست های <b>#</b> ادغام شدند از {titles}.}}'
+  ref:
+    merge: ادغام
