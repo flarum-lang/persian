@@ -102,7 +102,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/clarkwinkelmann-author-change/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-author-change/fa/) |
-| [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/datlechin-birthdays/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-birthdays/fa/) |
+| [`datlechin/flarum-birthdays`](https://github.com/flatension/birthdays) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/datlechin-birthdays/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-birthdays/fa/) |
 | [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/the-turk-diff/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-diff/fa/) |
 
 <!-- various-extensions-list-stop -->
