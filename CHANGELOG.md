@@ -14,7 +14,7 @@ CHANGELOG
 **Added support for new extensions**:
 
 * [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change)
-* [`datlechin/flarum-birthdays`](https://github.com/flatension/birthdays)
+* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
 * [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
 * [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
 * [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
