@@ -20,7 +20,8 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "persian",
+			"title": "Persian",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
