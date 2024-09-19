@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-0.1.2 (XXXX-XX-XX)
+0.2.0 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
@@ -37,6 +37,6 @@ CHANGELOG
 * [`flarum/tags`](https://github.com/flarum/tags)
 
 
-All changes: [0.1.1...0.1.2](https://github.com/flarum-lang/persian/compare/0.1.1...0.1.2).
+All changes: [0.1.1...0.2.0](https://github.com/flarum-lang/persian/compare/0.1.1...0.2.0).
 
 
