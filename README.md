@@ -14,7 +14,7 @@ This language pack contains Persian translations for Flarum (compatible with `1.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/persian:dev-master
+composer require flarum-lang/persian
 ```
 
 Then enable extension in admin panel of your Flarum.
