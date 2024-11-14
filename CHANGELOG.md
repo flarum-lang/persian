@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+0.2.2 (XXXX-XX-XX)
+------------------
+
+**Updated translations for extensions**:
+
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+
+
+All changes: [0.2.1...0.2.2](https://github.com/flarum-lang/persian/compare/0.2.1...0.2.2).
+
+
 0.2.1 (2024-11-14)
 ------------------
 
