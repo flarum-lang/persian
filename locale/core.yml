@@ -54,7 +54,7 @@ core:
       welcome_banner_heading: 'بنر خوش‌آمد گویی'
       welcome_banner_text: 'متن نمایش داده شده در بنر را در صفحه همه بحث ها پیکربندی کنید. برای خوش آمدگویی به میهمانان در انجمن خود از این مورد استفاده کنید.'
     create_user:
-      email_confirmed_label: 'کاربر نیازمند تأیید رایانامه خود است'
+      email_confirmed_label: 'کاربر نیازمند تأیید ایمیل خود است'
       email_placeholder: '=> core.ref.email'
       password_placeholder: '=> core.ref.password'
       submit_and_create_another_button: 'ایجاد و افزودن جدید'
@@ -270,6 +270,8 @@ core:
             title: 'گروه ها'
           join_time:
             title: 'ملحق شد'
+          user_actions:
+            title: اجرا
           user_id:
             title: شناسه
           username:
