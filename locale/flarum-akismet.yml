@@ -6,6 +6,7 @@ flarum-akismet:
   admin:
     akismet_settings:
       api_key_label: 'API Key'
+      delete_blatant_spam_label: 'خودکار هرزنامه‌ها را حذف کن'
       title: 'Akismet Settings'
   forum:
     post:
