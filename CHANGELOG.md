@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+0.2.1 (2024-11-14)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+All changes: [0.2.0...0.2.1](https://github.com/flarum-lang/persian/compare/0.2.0...0.2.1).
+
+
 0.2.0 (2024-09-20)
 ------------------
 
