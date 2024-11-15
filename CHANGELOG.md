@@ -2,6 +2,42 @@ CHANGELOG
 =========
 
 
+0.3.0 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+* Updated validation translations.
+
+
+**Added support for new extensions**:
+
+* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
+* [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
+* [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
+* [`afrux/news-widget`](https://github.com/afrux/news-widget)
+* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
+* [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`akr/chevereto`](https://github.com/AKR-Developers/flarum-chevereto)
+* [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
+* [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
+* [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
+* [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
+
+
+All changes: [0.2.1...0.3.0](https://github.com/flarum-lang/persian/compare/0.2.1...0.3.0).
+
+
 0.2.1 (2024-11-14)
 ------------------
 
