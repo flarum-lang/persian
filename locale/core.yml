@@ -8,7 +8,7 @@ core:
       developer_text: 'If you''re a developer, you can <a>read the docs</a> and have a go at building your own extensions.'
       install_text: 'In the meantime, you can look for extensions at the <a>Flarum Community site</a> and install them manually using Composer.'
       temporary_text: 'One day in the not-too-distant future, this dialog will allow you to add an extension to your forum with ease. We''re building an ecosystem as we speak!'
-      title: 'Add Extension'
+      title: 'افزونه جدید'
     appearance:
       colored_header_label: 'سربرگ رنگی'
       colors_heading: رنگ‌ها
@@ -45,7 +45,7 @@ core:
       forum_title_heading: 'عنوان انجمن'
       home_page_heading: 'صفحه نخست'
       home_page_text: 'صفحه ای را انتخاب کنید که کاربران هنگام بازدید از تالار گفتمان شما برای اولین بار آن را می بینند .'
-      saved_message: 'Your changes were saved.'
+      saved_message: 'تغییرات ذخیره شد.'
       show_language_selector_label: 'نمایش انتخابگر زبان'
       slug_driver_heading: 'درایور اسلاگ : {model}'
       slug_driver_text: 'درایوری را انتخاب کنید که برای slugging این مدل استفاده شود .'
@@ -114,7 +114,7 @@ core:
       from_label: 'ارسال کننده'
       heading: '=> core.ref.email'
       host_label: Host
-      mail_encryption_label: رمزنگاری
+      mail_encryption_label: نوع رمزنگاری
       mail_host_label: هاست
       mail_mailgun_domain_label: دامنه
       mail_mailgun_region_label: منطقه
@@ -161,7 +161,7 @@ core:
         title: 'مستندات {extName}'
       uninstall_button: حذف
     extensions:
-      add_button: 'Add Extension'
+      add_button: 'افزونه جدید'
       settings_button: '=> core.ref.settings'
       uninstall_button: Uninstall
     header:
@@ -178,7 +178,7 @@ core:
       basics_title: '=> core.admin.basics.description'
       categories:
         authentication: 'احراز هویت'
-        core: 'پیکربندی هسته'
+        core: 'تنظیمات انجمن'
         discussion: بحث
         feature: امکانات
         formatting: 'قالب بندی'
@@ -476,7 +476,7 @@ core:
       never: '=> core.ref.never'
       new_access_token_button: '=> core.ref.new_token'
       new_access_token_modal:
-        submit_button: 'ایجاد ژتون'
+        submit_button: 'ایجاد توکن'
         title: '=> core.ref.new_token'
         title_placeholder: موضوع
       revoke_access_token: ابطال
@@ -490,7 +490,7 @@ core:
       terminate_session: 'ازبین بردن'
       title: '=> core.ref.security'
       token_item_title: '{title} - {token}'
-      token_revoked: 'ژتون باطل شد.'
+      token_revoked: 'توکن باطل شد.'
       token_title_placeholder: /
     settings:
       account_heading: 'حساب کاربری'
