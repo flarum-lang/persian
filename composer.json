@@ -1,7 +1,7 @@
 {
-	"name": "flarum-lang/persian",
+	"name": "hamedm94/persian",
 	"type": "flarum-extension",
-	"description": "Persian language pack for Flarum.",
+	"description": "Persian language Extension for Flarum.",
 	"homepage": "https://www.l-ka.com",
 	"keywords": [
 		"locale",
