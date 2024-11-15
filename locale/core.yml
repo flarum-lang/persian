@@ -178,7 +178,7 @@ core:
       basics_title: '=> core.admin.basics.description'
       categories:
         authentication: 'احراز هویت'
-        core: 'پیکربندی هسته'
+        core: تنظیمات
         discussion: بحث
         feature: امکانات
         formatting: 'قالب بندی'
