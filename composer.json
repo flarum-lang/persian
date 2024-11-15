@@ -2,7 +2,7 @@
 	"name": "flarum-lang/persian",
 	"type": "flarum-extension",
 	"description": "Persian language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/persian",
+	"homepage": "https://www.l-ka.com",
 	"keywords": [
 		"locale",
 		"flarum",
@@ -10,8 +10,8 @@
 	],
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/flarum-lang/persian/issues",
-		"source": "https://github.com/flarum-lang/persian"
+		"issues": "https://github.com/hamedm94/persian/issues",
+		"source": "https://github.com/hamedm94/persian"
 	},
 	"require": {
 		"flarum/core": "^1.0"
