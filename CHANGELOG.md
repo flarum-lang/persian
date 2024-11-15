@@ -8,6 +8,7 @@ CHANGELOG
 **General changes**:
 
 * Updated Flarum core translations.
+* Updated validation translations.
 
 
 **Added support for new extensions**:
@@ -29,6 +30,9 @@ CHANGELOG
 **Updated translations for extensions**:
 
 * [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
 
 
 All changes: [0.2.1...0.3.0](https://github.com/flarum-lang/persian/compare/0.2.1...0.3.0).
