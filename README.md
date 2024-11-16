@@ -110,6 +110,7 @@ php flarum cache:clear
 | [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/askvortsov-help-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-help-tags/fa/) |
 | [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/clarkwinkelmann-author-change/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-author-change/fa/) |
 | [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/datlechin-birthdays/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-birthdays/fa/) |
+| [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/irmmr-rtl/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/irmmr-rtl/fa/) |
 | [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/the-turk-diff/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-diff/fa/) |
 
 <!-- various-extensions-list-stop -->
