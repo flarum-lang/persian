@@ -5,9 +5,12 @@
 flarum-akismet:
   admin:
     akismet_settings:
-      api_key_label: 'API Key'
+      api_key_label: 'کلید API'
+      delete_blatant_spam_help: 'اگر Akismet تشخیص داده است که نظر یا کامنت هرزنامه است، به جای علامت گذاری، پست را به طور خودکار حذف کنید'
       delete_blatant_spam_label: 'خودکار هرزنامه‌ها را حذف کن'
-      title: 'Akismet Settings'
+      title: 'تنظیمات Akismet'
+    permissions:
+      bypass_akismet: 'از Akismet عبور کنید'
   forum:
     post:
       akismet_flagged_text: 'Akismet این پست را به عنوان هرزنامه علامت زده'

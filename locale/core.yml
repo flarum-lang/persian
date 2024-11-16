@@ -8,7 +8,7 @@ core:
       developer_text: 'If you''re a developer, you can <a>read the docs</a> and have a go at building your own extensions.'
       install_text: 'In the meantime, you can look for extensions at the <a>Flarum Community site</a> and install them manually using Composer.'
       temporary_text: 'One day in the not-too-distant future, this dialog will allow you to add an extension to your forum with ease. We''re building an ecosystem as we speak!'
-      title: 'افزونه جدید'
+      title: 'Add Extension'
     appearance:
       colored_header_label: 'سربرگ رنگی'
       colors_heading: رنگ‌ها
@@ -17,7 +17,7 @@ core:
       colors_text: 'دو رنگ برای تم انجمن خود انتخاب کنید. اولی به عنوان رنگ برجسته و دومی برای استایل دهی به عناصر پس زمینه استفاده خواهد شد.'
       custom_footer_heading: 'فوتر سفارشی'
       custom_footer_text: '=> core.ref.custom_footer_text'
-      custom_header_heading: 'هدر سفارشی'
+      custom_header_heading: 'سربرگ سفارشی'
       custom_header_text: '=> core.ref.custom_header_text'
       custom_styles_cannot_use_less_features: 'قابلیت @import و data-uri در حالت LESS سفارشی مجاز نیستند.'
       custom_styles_heading: 'استایل‌های سفارشی'
@@ -45,7 +45,7 @@ core:
       forum_title_heading: 'عنوان انجمن'
       home_page_heading: 'صفحه نخست'
       home_page_text: 'صفحه ای را انتخاب کنید که کاربران هنگام بازدید از تالار گفتمان شما برای اولین بار آن را می بینند .'
-      saved_message: 'تغییرات ذخیره شد.'
+      saved_message: 'Your changes were saved.'
       show_language_selector_label: 'نمایش انتخابگر زبان'
       slug_driver_heading: 'درایور اسلاگ : {model}'
       slug_driver_text: 'درایوری را انتخاب کنید که برای slugging این مدل استفاده شود .'
@@ -94,7 +94,7 @@ core:
       delete_confirmation: 'آیا اطمینان دارید که می خواهید این گروه را حذف کنید ؟ اعضای این گروه حذف نخواهند شد .'
       hide_label: 'پنهان کردن در انجمن'
       icon_label: آیکون
-      icon_text: 'نام هر یک از کلاس های آیکون <a>FontAwesome</a> را وارد کنید که <em>شامل</em> پیشوند <code>fas fa-</code> باشند .'
+      icon_text: '=> core.ref.icon_text'
       name_label: نام
       plural_placeholder: 'جمع (برای مثال: مد ها)'
       singular_placeholder: 'تکی (برای مثال: مد)'
@@ -114,7 +114,7 @@ core:
       from_label: 'ارسال کننده'
       heading: '=> core.ref.email'
       host_label: Host
-      mail_encryption_label: نوع رمزنگاری
+      mail_encryption_label: رمزنگاری
       mail_host_label: هاست
       mail_mailgun_domain_label: دامنه
       mail_mailgun_region_label: منطقه
@@ -161,7 +161,7 @@ core:
         title: 'مستندات {extName}'
       uninstall_button: حذف
     extensions:
-      add_button: 'افزونه جدید'
+      add_button: 'Add Extension'
       settings_button: '=> core.ref.settings'
       uninstall_button: Uninstall
     header:
@@ -178,7 +178,7 @@ core:
       basics_title: '=> core.admin.basics.description'
       categories:
         authentication: 'احراز هویت'
-        core: 'تنظیمات انجمن'
+        core: تنظیمات
         discussion: بحث
         feature: امکانات
         formatting: 'قالب بندی'
@@ -190,7 +190,7 @@ core:
       dashboard_text: 'انجمن شما در یک نگاه.'
       dashboard_title: 'پیشخوان پنل مدیریت'
       email_button: '=> core.ref.email'
-      email_text: 'پیکربندی تنظیمات ایمیل انجمن.'
+      email_text: 'پیکربندی تنظیمات رایانامه انجمن.'
       email_title: '=> core.admin.email.description'
       extensions_button: افزونه‌ها
       extensions_text: 'افزودن قابلیت‌های جدید به انجمن و شخصی‌سازی آن، به سلیقه خودتان.'
@@ -369,7 +369,7 @@ core:
       groups_heading: گروه‌ها
       password_heading: '=> core.ref.password'
       password_label: '=> core.ref.password'
-      set_password_label: 'تغییر رمزعبور'
+      set_password_label: 'تغییر گذرواژه'
       submit_button: '=> core.ref.save_changes'
       title: 'ویرایش کاربر'
       username_heading: '=> core.ref.username'
@@ -449,7 +449,7 @@ core:
       viewing_text: '{count, plural, one {{index} از {formattedCount} نوشته} other {{index} از {formattedCount} نوشته}}'
     post_stream:
       discussion_renamed_old_tooltip: 'عنوان قدیمی: "{old}"'
-      discussion_renamed_text: '{username} عنوان را به {new} تغییر داد.{time}'
+      discussion_renamed_text: '{username} عنوان را ویرایش کرد به {new} {time}'
       load_more_button: '=> core.ref.load_more'
       reply_placeholder: '=> core.ref.write_a_reply'
       time_lapsed_text: '{period} بعد'
@@ -476,12 +476,12 @@ core:
       never: '=> core.ref.never'
       new_access_token_button: '=> core.ref.new_token'
       new_access_token_modal:
-        submit_button: 'ایجاد توکن'
+        submit_button: 'ایجاد ژتون'
         title: '=> core.ref.new_token'
         title_placeholder: موضوع
       revoke_access_token: ابطال
       revoke_access_token_confirmation: '=> core.ref.generic_confirmation_message'
-      session_terminated: '{count, plural, one {Session terminated} other {# Sessions terminated}}.'
+      session_terminated: '{تعداد،مجموع، یک {Session terminated} از {# Sessions terminated}}.'
       session_termination_failed: 'درهنگام ازبین بردن نشست‌های شما خطایی رخ داد.'
       sessions_heading: 'نشست‌های فعال'
       show_access_token: 'مشاهده ژتون'
@@ -490,7 +490,7 @@ core:
       terminate_session: 'ازبین بردن'
       title: '=> core.ref.security'
       token_item_title: '{title} - {token}'
-      token_revoked: 'توکن باطل شد.'
+      token_revoked: 'ژتون باطل شد.'
       token_title_placeholder: /
     settings:
       account_heading: 'حساب کاربری'
@@ -591,8 +591,8 @@ core:
     loading_indicator:
       accessible_label: '=> core.ref.loading'
     meta_titles:
-      with_page_title: '{شماره صفحه،جمع،=1{pageTitle}-{forumName} دیگر{pageTitle}: صفحه # - {forumName}}}'
-      without_page_title: '{شماره صفحه،جمع،= 1{{forumName}} از {صفحه # - {forumName}}'
+      with_page_title: '{شماره صفحه،مجموع،=1 {pageTitle}-{forumName} از {pageTitle}: صفحه # - {forumName}}}'
+      without_page_title: '{شماره صفحه،مجموع،= 1{{forumName}} از {Page # - {forumName}}}'
     modal:
       close: بستن
     nav:
@@ -614,10 +614,10 @@ core:
     confirm_email: 'تایید ایمیل'
     confirm_password: 'تائید رمزعبور'
     confirmation_email_sent: 'ایمیلی در خصوص تاییدیه حساب کاربری به {email} ارسال گردید. اگر به‌زودی آن را دریافت ننمودید پوشه هرزنامه‌های خود را بررسی کنید.'
-    custom_footer_text: 'Add HTML to be displayed at the very bottom of the page.'
-    custom_footer_title: 'Edit Custom Footer'
-    custom_header_text: 'Add HTML to be displayed at the very top of the page, above Flarum''s own header.'
-    custom_header_title: 'Edit Custom Header'
+    custom_footer_text: 'HTML را اضافه کنید تا در انتهای صفحه نمایش داده شود.'
+    custom_footer_title: 'ویرایش فوتر سفارشی'
+    custom_header_text: 'HTML را اضافه کنید تا در بالای صفحه، بالای سربرگ Flarum نمایش داده شود.'
+    custom_header_title: 'ویرایش سربرگ سفارشی'
     delete: حذف
     delete_forever: 'حذف برای همیشه'
     discussions: مباحث
@@ -678,7 +678,7 @@ core:
     content:
       javascript_disabled_message: 'این وب‌سایت در مرورگرهای جدید، و با جاوا اسکریپت فعال به بهترین شکل نمایش میابد.'
       load_error_message: 'هنگام تلاش برای بارگیری نسخه کامل این سایت، مشکلی پیش آمد. سعی کنید این صفحه رابا رفرش و پاک کردن کش بازخوانی کنید تا خطا برطرف شود.'
-      loading_text: 'در حال بارگذاری ...'
+      loading_text: '=> core.ref.loading'
     discussion:
       next_page_button: '=> core.ref.next_page'
       previous_page_button: '=> core.ref.previous_page'
