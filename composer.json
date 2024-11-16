@@ -1,5 +1,5 @@
 {
-	"name": "hamedm94/persian",
+	"name": "lkacom/persian",
 	"type": "flarum-extension",
 	"description": "Persian language Extension for Flarum.",
 	"homepage": "https://www.l-ka.com",
@@ -10,8 +10,8 @@
 	],
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/hamedm94/persian/issues",
-		"source": "https://github.com/hamedm94/persian"
+		"issues": "https://github.com/lkacom/persian/issues",
+		"source": "https://github.com/lkacom/persian"
 	},
 	"require": {
 		"flarum/core": "^1.0"
