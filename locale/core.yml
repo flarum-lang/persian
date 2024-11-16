@@ -190,7 +190,7 @@ core:
       dashboard_text: 'انجمن شما در یک نگاه.'
       dashboard_title: 'پیشخوان پنل مدیریت'
       email_button: '=> core.ref.email'
-      email_text: 'پیکربندی تنظیمات رایانامه انجمن.'
+      email_text: 'پیکربندی تنظیمات ایمیل انجمن.'
       email_title: '=> core.admin.email.description'
       extensions_button: افزونه‌ها
       extensions_text: 'افزودن قابلیت‌های جدید به انجمن و شخصی‌سازی آن، به سلیقه خودتان.'
@@ -369,7 +369,7 @@ core:
       groups_heading: گروه‌ها
       password_heading: '=> core.ref.password'
       password_label: '=> core.ref.password'
-      set_password_label: 'تغییر گذرواژه'
+      set_password_label: 'تغییر رمزعبور'
       submit_button: '=> core.ref.save_changes'
       title: 'ویرایش کاربر'
       username_heading: '=> core.ref.username'
