@@ -25,6 +25,7 @@ CHANGELOG
 * [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
 * [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl)
 
 
 **Updated translations for extensions**:
