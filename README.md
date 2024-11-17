@@ -78,13 +78,13 @@
  پکیج را با استفاده از Composer نصب کنید:
 
    ```console
-   composer require hamedm94/flarum_persian
+   composer require lkacom/persian
 ```
 
  جهت بروزرسانی ترجمه های جدید از دستور زیر استفاده کنید:
 
 ```console
-composer update hamedm94/flarum_persian
+composer update lkacom/persian
 ```
 
 پس از نصب یا بروز رسانی از دستور زیر برای حذف کش استفاده کنید:
