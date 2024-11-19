@@ -5,7 +5,7 @@
 flarum-tags:
   admin:
     basics:
-      tags_label: '=> flarum-tags.ref.tags'
+      tags_label: '=> flarum-tags.ref.name'
     edit_tag:
       color_label: '=> core.ref.color'
       delete_tag_button: 'حذف برچسب'
@@ -68,8 +68,8 @@ flarum-tags:
       untagged_link: 'بدون تگ'
     post_stream:
       added_and_removed_tags_text: '{username} {tagsAdded} را افزود و {tagsRemoved} {time} را حذف کرد.'
-      added_tags_text: '{username} {tagsAdded} را افزود.'
-      removed_tags_text: '{username} {tagsRemoved} را حذف کرد.'
+      added_tags_text: '{username} {tagsAdded} {time} را افزود.'
+      removed_tags_text: '{username} {tagsRemoved} {time} را حذف کرد.'
       tags_text: '{count, plural, one {برچسب {tags}} other {برچسب های {tags}}}'
     tag:
       meta_description_text: 'تمامی بحث ها با برچسب {tag}'

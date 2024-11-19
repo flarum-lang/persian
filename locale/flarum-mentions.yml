@@ -3,22 +3,48 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-mentions:
+  admin:
+    permissions:
+      mention_groups_label: 'گروه ها را ذکر کنید'
+    settings:
+      allow_username_format_label: 'فرمت ذکر نام کاربری مجاز (@Username)'
+      allow_username_format_text: "قالب فعلی برای نام‌های کاربر @\"Display Name\"#ID است.\nاین تنظیم امکان استفاده از فرمت قدیمی @Username را می دهد، اما پس از ذخیره همچنان به فرمت جدید تبدیل می شود.\n"
+  email:
+    group_mentioned:
+      body: "سلام {recipient_display_name}!\n\n{mentioner_display_name} از گروهی که شما عضو آن هستید در {title} نام برد.\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{mentioner_display_name} از گروهی که شما عضو آن هستید در {title} نام برد'
+    post_mentioned:
+      body: "سلام {recipient_display_name}!\n\n{replier_display_name} به پست شما (#{post_number}) در {title} پاسخ داد.\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{replier_display_name} به پست شما در {title} پاسخ داد'
+    user_mentioned:
+      body: "سلام {recipient_display_name}!\n\n{mentioner_display_name} از شما در پستی در {title} نام برده است.\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{mentioner_display_name} از شما در {title} نام برد'
   forum:
     composer:
-      mention_tooltip: 'اشاره به یک کاربر یا نوشته'
+      mention_tooltip: 'یک کاربر، گروه یا پست را ذکر کنید'
       reply_to_post_text: 'پاسخ به #{number}'
+    group_mention:
+      deleted_text: '[unknown group]'
+    mentioned_by:
+      load_more_button: '=> core.ref.load_more'
+      title: 'پاسخ به این پست'
     notifications:
+      group_mentioned_text: '{username} از گروهی که شما عضو آن هستید نام برد'
       others_text: '=> core.ref.some_others'
       post_mentioned_text: '{username} به نوشته شما پاسخ داد'
       user_mentioned_text: 'نام شما توسط {username} نام برده شد'
     post:
+      mentioned_by_more_text: '{count} پاسخ دیگر.'
       mentioned_by_self_text: 'توسط {users} پاسخ داده شد.'
       mentioned_by_text: 'توسط {users} پاسخ داده شد.'
       others_text: '=> core.ref.some_others'
       quote_button: نقل‌قول
       reply_link: '=> core.ref.reply'
       you_text: '=> core.ref.you'
+    post_mention:
+      deleted_text: '[unknown]'
     settings:
+      notify_group_mentioned_label: 'شخصی در یک پست از گروهی که من عضو آن هستم نام برد'
       notify_post_mentioned_label: 'کسی به نوشته من پاسخ داد'
       notify_user_mentioned_label: 'کسی در نوشته‌ای از من نام برد'
     user:
