@@ -16,3 +16,16 @@ flarum-markdown:
       spoiler_tooltip: 'یک اسپویلر اضافه کنید'
       strikethrough_tooltip: 'متن خط خطی را اضافه کنید'
       unordered_list_tooltip: 'افزودن لیست'
+  lib:
+    composer:
+      bold_tooltip: 'اضافه کردن متن ضخیم'
+      code_tooltip: 'وارد کردن کد'
+      header_tooltip: 'افزودن متن سربرگ'
+      image_tooltip: 'افزودن تصویر'
+      italic_tooltip: 'افزون متن مورب'
+      link_tooltip: 'افزودن لینک'
+      ordered_list_tooltip: 'افزودن لیست شماره'
+      quote_tooltip: 'وارد کردن نقل قول'
+      spoiler_tooltip: 'ئارد کردن اسپویلر'
+      strikethrough_tooltip: 'افزودن متن خط خورده'
+      unordered_list_tooltip: 'افزودن لیست دایره دار'
