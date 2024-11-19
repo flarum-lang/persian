@@ -54,6 +54,7 @@
 | [`flarum/lock`](https://github.com/flarum/lock) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/fa/) |
 | [`flarum/markdown`](https://github.com/flarum/markdown) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-markdown/fa/) |
 | [`flarum/mentions`](https://github.com/flarum/mentions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-mentions/fa/) |
+| [`flarum/nicknames`](https://github.com/flarum/nicknames) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-nicknames/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-nicknames/fa/) |
 | [`flarum/pusher`](https://github.com/flarum/pusher) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-pusher/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-pusher/fa/) |
 | [`flarum/statistics`](https://github.com/flarum/statistics) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-statistics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-statistics/fa/) |
 | [`flarum/sticky`](https://github.com/flarum/sticky) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/flarum-sticky/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-sticky/fa/) |
@@ -67,7 +68,6 @@
 
 
 
-## 🚀 نصب و راه‌اندازی
 
 ### پیش‌نیازها
 - **Flarum** نسخه 1.0 یا بالاتر
