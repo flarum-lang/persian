@@ -21,12 +21,26 @@ flarum-extension-manager:
         token: توکن
       no_auth_methods_configured: 'هیچ روش احراز هویت پیکربندی نشده است. این یک ویژگی پیشرفته اختیاری است که امکان نصب از مخازن خصوصی را فراهم می کند.'
       remove_button_label: 'حذف روش اهراز حویت'
+      title: 'روش های احراز هویت'
+      types:
+        bearer: 'حامل HTTP'
+        github-oauth: 'احراز هویت گیت هاب'
+        gitlab-oauth: 'احراز هویت گیت لب'
+        gitlab-token: 'توکن گیت لب'
     composer:
+      add_repository_label: 'افزودن مخزن'
+      delete_repository_confirmation: 'آیا مطمئن هستید که می خواهید این مخزن را حذف کنید؟ تمام افزونه های نصب شده از این مخزن حذف خواهند شد.'
+      delete_repository_label: 'حذف مخزن'
+      edit_repository_label: 'ویرایش مخزن'
       minimum_stability:
+        help: 'نوع پکیج های مجاز برای نصب. این را تغییر ندهید مگر اینکه بدانید دارید چه کار می کنید.'
+        label: 'حداقل پایداری'
         options:
           alpha: آلفا
           beta: بتا
           dev: 'توسعه دهنده'
+          rc: 'کاندید را آزاد کنید'
+          stable: 'پایدار (توصیه می شود)'
       repositories:
         add_modal:
           name_label: نام
@@ -39,6 +53,7 @@ flarum-extension-manager:
           composer: کامپوزر
           path: مسیر
           vcs: vcs
+      title: کامپوزر
     exceptions:
       composer_command_failure: 'اجرا نشد. گزارش های کامپوزر را در storage/logs/composer بررسی کنید.'
       extension_already_installed: 'این افزونه قبلاً نصب شده است.'
