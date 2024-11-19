@@ -2,6 +2,18 @@ CHANGELOG
 =========
 
 
+0.3.1 (XXXX-XX-XX)
+------------------
+
+**Updated translations for extensions**:
+
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+
+
+All changes: [0.3.0...0.3.1](https://github.com/flarum-lang/persian/compare/0.3.0...0.3.1).
+
+
 0.3.0 (2024-11-19)
 ------------------
 
