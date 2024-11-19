@@ -1,12 +1,12 @@
-// اضافه کردن Day.js و افزونه‌ها
+// وارد کردن کتابخانه dayjs و پلاگین شمسی
 import dayjs from 'dayjs';
 import jalali from 'dayjs-jalali';
-import 'dayjs/locale/fa';
 
-// اضافه کردن تقویم شمسی و زبان فارسی
+// اضافه کردن پلاگین شمسی به dayjs
 dayjs.extend(jalali);
+
+// تنظیم زبان فارسی برای dayjs
 dayjs.locale('fa');
 
-// نمونه خروجی تاریخ
-console.log(dayjs().format('YYYY/MM/DD')); // خروجی: ۱۴۰۳/۰۸/۲۸
-console.log(dayjs().format('dddd, D MMMM YYYY')); // خروجی: شنبه، ۲۸ آبان ۱۴۰۳
+// تست تاریخ شمسی
+console.log(dayjs().format('YYYY/MM/DD')); // نمایش تاریخ شمسی
