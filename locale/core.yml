@@ -63,7 +63,7 @@ core:
       use_random_password: 'ایجاد رمز عبور تصادفی'
       username_placeholder: '=> core.ref.username'
     dashboard:
-      clear_cache_button: 'پاک کردن cache'
+      clear_cache_button: 'پاک کردن کش'
       description: 'انجمن شما در یک نگاه'
       io_error_message: 'نمی‌توان به دیسک نوشت. لطفاً مجوزهای دیسک خود را بازبینی و دوباره تلاش کنید و یا از طریق خط فرمان اجرا کنید.'
       status:
