@@ -591,8 +591,8 @@ core:
     loading_indicator:
       accessible_label: '=> core.ref.loading'
     meta_titles:
-      with_page_title: '{شماره صفحه،جمع،=1{pageTitle}-{forumName} دیگر{pageTitle}: صفحه # - {forumName}}}'
-      without_page_title: '{شماره صفحه،جمع،= 1{{forumName}} از {صفحه # - {forumName}}'
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: Page # - {forumName}}}'
+      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {Page # - {forumName}}}'
     modal:
       close: بستن
     nav:
