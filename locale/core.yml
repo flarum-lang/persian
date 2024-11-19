@@ -68,9 +68,9 @@ core:
       io_error_message: 'نمی‌توان به دیسک نوشت. لطفاً مجوزهای دیسک خود را بازبینی و دوباره تلاش کنید و یا از طریق خط فرمان اجرا کنید.'
       status:
         headers:
-          queue-driver: 'صف درایور'
+          queue-driver: 'queue driver'
           scheduler-status: زمان‌بندی
-          session-driver: 'نشست درایور'
+          session-driver: 'session driver'
         scheduler:
           active: فعال
           inactive: غیرفعال
