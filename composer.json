@@ -1,7 +1,7 @@
 {
 	"name": "lkacom/persian",
 	"type": "flarum-extension",
-	"description": "Persian language Extension for Flarum.",
+	"description": "افزونه زبان فارسی Flarum",
 	"homepage": "https://www.l-ka.com",
 	"keywords": [
 		"locale",
@@ -20,7 +20,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Persian",
+			"title": "زبان فارسی",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
