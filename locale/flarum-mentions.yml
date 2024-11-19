@@ -13,7 +13,7 @@ flarum-mentions:
       user_mentioned_text: 'نام شما توسط {username} نام برده شد'
     post:
       mentioned_by_self_text: 'توسط {users} پاسخ داده شد.'
-      mentioned_by_text: 'توسط {users} پاسخ داده شد'
+      mentioned_by_text: 'توسط {users} پاسخ داده شد.'
       others_text: '=> core.ref.some_others'
       quote_button: نقل‌قول
       reply_link: '=> core.ref.reply'
