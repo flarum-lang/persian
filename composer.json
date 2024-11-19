@@ -20,7 +20,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "زبان فارسی",
+			"title": "فارسی",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
