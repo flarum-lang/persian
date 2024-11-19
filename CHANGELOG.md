@@ -13,6 +13,7 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
 * [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
 * [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
 * [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
@@ -25,6 +26,7 @@ CHANGELOG
 * [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
 * [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
 * [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl)
 
 
@@ -34,6 +36,7 @@ CHANGELOG
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
