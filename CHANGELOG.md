@@ -34,6 +34,11 @@ CHANGELOG
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
+* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
 
 
 All changes: [0.2.1...0.3.0](https://github.com/flarum-lang/persian/compare/0.2.1...0.3.0).
