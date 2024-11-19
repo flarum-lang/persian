@@ -93,5 +93,7 @@ composer update lkacom/persian
 ```console
 php flarum cache:clear
 ```
+
+سپس می‌توانید زبان فارسی را در پنل مدیریت در بخش افزونه‌ها فعال نمایید.
 <div align="center">منتشر شده توسط الکا www.l-ka.com</div>
 <div align="center">با همکاری ایران گولد www.Iran-Gold.com</div>
