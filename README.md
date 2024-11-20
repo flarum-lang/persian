@@ -5,11 +5,11 @@
 
 <div align="center">
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/persian?color=success&label=stable)](https://packagist.org/packages/flarum-lang/persian) 
-[![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/persian?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/persian) 
-[![License](https://img.shields.io/packagist/l/flarum-lang/persian)](https://packagist.org/packages/flarum-lang/persian) 
-[![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/persian)](https://packagist.org/packages/flarum-lang/persian/stats) 
-[![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/persian)](https://packagist.org/packages/flarum-lang/persian/stats) 
+[![Latest Stable Version](https://img.shields.io/packagist/v/lkacom/persian?color=success&label=stable)](https://packagist.org/packages/lkacom/persian) 
+[![Latest Unstable Version](https://img.shields.io/packagist/v/lkacom/persian?include_prereleases&label=unstable)](https://packagist.org/packages/lkacom/persian) 
+[![License](https://img.shields.io/packagist/l/lkacom/persian)](https://packagist.org/packages/lkacom/persian) 
+[![Total Downloads](https://img.shields.io/packagist/dt/lkacom/persian)](https://packagist.org/packages/lkacom/persian/stats) 
+[![Monthly Downloads](https://img.shields.io/packagist/dm/lkacom/persian)](https://packagist.org/packages/lkacom/persian/stats) 
 
 </div>
 
