@@ -9,7 +9,7 @@ fof-polls:
   forum:
     composer_discussion:
       add_poll: 'اضافه کردن نظرسنجی'
-    days_remaining: 'نظرسنجی در {time} به پایان می رسد.'
+    days_remaining: '{time} نظرسنجی به اتمام رسید.'
     modal:
       add_option_label: 'اضافه کردن گزینه'
       add_title: 'افزودن نظرسنجی'
