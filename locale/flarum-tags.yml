@@ -41,6 +41,7 @@ flarum-tags:
       create_primary_tag_button: 'ایجاد تگ اصلی'
       create_secondary_tag_button: 'ایجاد تگ ثانویه'
       create_tag_button: '=> flarum-tags.ref.create_tag'
+      edit_tag_label: 'ویرایش برچسب {tag}'
       primary_heading: 'برچسب های اولیه'
       secondary_heading: 'برچسب های ثانویه'
       settings_button: Settings
@@ -88,3 +89,12 @@ flarum-tags:
     create_tag: 'ساخت تگ'
     name: نام
     tags: تگ‌ها
+  validation:
+    attributes:
+      color: رنگ
+      description: توضیحات
+      is_hidden: پنهان
+      name: نام
+      slug: اسلاگ
+      tag_count_primary: '=> validation.attributes.tag_count_primary'
+      tag_count_secondary: '=> validation.attributes.tag_count_secondary'

@@ -39,3 +39,6 @@ flarum-suspend:
       suspended_tooltip: 'تعلیق شده'
     user_controls:
       suspend_button: تعلیق
+  validation:
+    attributes:
+      suspendedUntil: 'مسدود شده تا'
