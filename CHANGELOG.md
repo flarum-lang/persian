@@ -22,6 +22,7 @@ CHANGELOG
 * [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
 * [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
