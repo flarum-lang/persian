@@ -39,7 +39,7 @@ flarum-extension-manager:
           alpha: آلفا
           beta: بتا
           dev: 'توسعه دهنده'
-          rc: 'کاندید را آزاد کنید'
+          rc: 'آخرین نسخه'
           stable: 'پایدار (توصیه می شود)'
       repositories:
         add_modal:
