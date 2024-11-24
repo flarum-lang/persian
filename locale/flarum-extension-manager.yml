@@ -141,3 +141,22 @@ flarum-extension-manager:
       updater_title: 'بروزرسانی ها'
     why_not_modal:
       title: 'چرا به روز نمی شود'
+  validation:
+    attributes:
+      bearer: 'هدر HTTP'
+      'bearer.*': 'هدر HTTP'
+      extension_id: 'شناسه افزونه'
+      github_oauth: 'احراز هویت گیت هاب'
+      'github_oauth.*': 'احراز هویت گیت هاب'
+      gitlab_oauth: 'احراز هویت گیت هاب'
+      'gitlab_oauth.*': 'احراز هویت گیت هاب'
+      gitlab_token: 'توکن گیت هاب'
+      'gitlab_token.*': 'توکن گیت هاب'
+      minimum_stability: 'حداقل پایداری'
+      package: پکیج
+      repositories: 'مخزن ها'
+      'repositories.*': 'مخزن ها'
+      'repositories.*.type': 'نوع مخزن'
+      'repositories.*.url': 'آدرس مخزن'
+      update_mode: 'حالت بروزرسانی'
+      version: نسخه
