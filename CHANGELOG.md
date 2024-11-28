@@ -2,6 +2,35 @@ CHANGELOG
 =========
 
 
+0.4.0 (2024-11-24)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`foskym/flarum-issue-tracking`](https://github.com/FoskyM/flarum-issue-tracking)
+* [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
+
+
+All changes: [0.3.0...0.4.0](https://github.com/flarum-lang/persian/compare/0.3.0...0.4.0).
+
+
 0.3.0 (2024-11-19)
 ------------------
 
