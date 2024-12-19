@@ -2,6 +2,18 @@ CHANGELOG
 =========
 
 
+0.4.1 (2024-12-12)
+------------------
+
+**Updated translations for extensions**:
+
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/tags`](https://github.com/flarum/tags)
+
+
+All changes: [0.4.0...0.4.1](https://github.com/flarum-lang/persian/compare/0.4.0...0.4.1).
+
+
 0.4.0 (2024-11-24)
 ------------------
 

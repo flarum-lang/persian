@@ -76,6 +76,11 @@ flarum-tags:
       meta_description_text: 'تمامی بحث ها با برچسب {tag}'
   lib:
     deleted_tag_text: 'حذف شده'
+    gambits:
+      discussions:
+        tag:
+          hint: 'نام یک برچسب، یا لیستی از نام برچسب ها با کاما جدا شده، یا "بدون برچسب"'
+          key: برچسب
     tag_selection_modal:
       bypass_requirements: 'بدون درج برچسب'
       choose_primary_placeholder: '{count, plural, one {Choose a primary tag} other {Choose # primary tags}}'

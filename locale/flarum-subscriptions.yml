@@ -6,6 +6,10 @@ flarum-subscriptions:
   email:
     new_post:
       body: "سلام {recipient_display_name}!\n\n{poster_display_name} در بحثی که شما دنبال می‌کنید پستی ارسال کرد: {title}.\n\nبرای مشاهده فعالیت جدید به لینک زیر مراجعه کنید:\n{url}\n\n---\n\n{content}\n\n---\n\nتا زمانی که به‌روز نشود، هیچ اعلان دیگری درباره این بحث دریافت نخواهید کرد.\n"
+      html:
+        body: "{poster_display_name} در بحثی که شما دنبال می‌کنید پستی ارسال کرد: {title} {url}\n\nتا زمانی که به‌روز نباشید، هیچ اعلان دیگری درباره این بحث دریافت نخواهید کرد\n"
+      plain:
+        body: "{poster_display_name} در بحثی که شما دنبال می‌کنید پستی ارسال کرد: {title}.\n\nبرای مشاهده فعالیت جدید به لینک زیر مراجعه کنید:\n{url}\n\n---\n\n{content}\n\n---\n\nتا زمانی که به‌روز نشود، هیچ اعلان دیگری درباره این بحث دریافت نخواهید کرد.\n"
       subject: '[نوشته جدید] {title}'
   forum:
     badge:
@@ -35,6 +39,12 @@ flarum-subscriptions:
       not_following_text: 'فقط وقتی که از من @نام برده شد.'
       notify_alert_tooltip: 'دریافت اعلان جدید وقتی کسی چیزی نوشت'
       notify_email_tooltip: 'دریافت ایمیل وقتی کسی چیز جدیدی نوشت'
+  lib:
+    gambits:
+      discussions:
+        subscription:
+          following_key: 'دنبال شده'
+          ignoring_key: 'نادیده گرفتن'
   ref:
     follow: 'دنبال کردن'
     following: 'دنبال شده'
