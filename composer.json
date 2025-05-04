@@ -1,17 +1,22 @@
 {
-	"name": "flarum-lang/persian",
+	"name": "lkacom/persian",
 	"type": "flarum-extension",
-	"description": "Persian language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/persian",
+	"description": "افزونه زبان فارسی Flarum",
+	"homepage": "https://www.l-ka.com",
 	"keywords": [
 		"locale",
+		"farsi",
+		"فارسی",
+		"افزونه",
+		"فلاروم",
+		"extension",
 		"flarum",
 		"persian"
 	],
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/flarum-lang/persian/issues",
-		"source": "https://github.com/flarum-lang/persian"
+		"issues": "https://github.com/lkacom/persian/issues",
+		"source": "https://github.com/lkacom/persian"
 	},
 	"require": {
 		"flarum/core": "^1.0"
@@ -20,7 +25,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Persian",
+			"title": "فارسی",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",

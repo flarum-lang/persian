@@ -8,7 +8,7 @@ core:
       developer_text: 'If you''re a developer, you can <a>read the docs</a> and have a go at building your own extensions.'
       install_text: 'In the meantime, you can look for extensions at the <a>Flarum Community site</a> and install them manually using Composer.'
       temporary_text: 'One day in the not-too-distant future, this dialog will allow you to add an extension to your forum with ease. We''re building an ecosystem as we speak!'
-      title: 'Add Extension'
+      title: 'افزونه جدید'
     appearance:
       colored_header_label: 'سربرگ رنگی'
       colors_heading: رنگ‌ها
@@ -63,14 +63,14 @@ core:
       use_random_password: 'ایجاد رمز عبور تصادفی'
       username_placeholder: '=> core.ref.username'
     dashboard:
-      clear_cache_button: 'پاک کردن cache'
+      clear_cache_button: 'پاک کردن کش'
       description: 'انجمن شما در یک نگاه'
       io_error_message: 'نمی‌توان به دیسک نوشت. لطفاً مجوزهای دیسک خود را بازبینی و دوباره تلاش کنید و یا از طریق خط فرمان اجرا کنید.'
       status:
         headers:
-          queue-driver: 'صف درایور'
+          queue-driver: 'queue driver'
           scheduler-status: زمان‌بندی
-          session-driver: 'نشست درایور'
+          session-driver: 'session driver'
         scheduler:
           active: فعال
           inactive: غیرفعال
@@ -161,7 +161,7 @@ core:
         title: 'مستندات {extName}'
       uninstall_button: حذف
     extensions:
-      add_button: 'Add Extension'
+      add_button: 'افزونه جدید'
       settings_button: '=> core.ref.settings'
       uninstall_button: Uninstall
     header:
@@ -190,7 +190,7 @@ core:
       dashboard_text: 'انجمن شما در یک نگاه.'
       dashboard_title: 'پیشخوان پنل مدیریت'
       email_button: '=> core.ref.email'
-      email_text: 'پیکربندی تنظیمات رایانامه انجمن.'
+      email_text: 'پیکربندی تنظیمات ایمیل انجمن.'
       email_title: '=> core.admin.email.description'
       extensions_button: افزونه‌ها
       extensions_text: 'افزودن قابلیت‌های جدید به انجمن و شخصی‌سازی آن، به سلیقه خودتان.'
@@ -369,7 +369,7 @@ core:
       groups_heading: گروه‌ها
       password_heading: '=> core.ref.password'
       password_label: '=> core.ref.password'
-      set_password_label: 'تغییر گذرواژه'
+      set_password_label: 'تغییر رمزعبور'
       submit_button: '=> core.ref.save_changes'
       title: 'ویرایش کاربر'
       username_heading: '=> core.ref.username'
