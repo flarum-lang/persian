@@ -86,7 +86,6 @@ php flarum cache:clear
 | [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-prevent-necrobumping/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-prevent-necrobumping/fa/) |
 | [`fof/secure-https`](https://github.com/FriendsOfFlarum/secure-https) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-secure-https/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-secure-https/fa/) |
 | [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-share-social/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-share-social/fa/) |
-| [`fof/spamblock`](https://github.com/FriendsOfFlarum/spamblock) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-spamblock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-spamblock/fa/) |
 | [`fof/split`](https://github.com/FriendsOfFlarum/split) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-split/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-split/fa/) |
 | [`fof/terms`](https://github.com/FriendsOfFlarum/terms) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/fof-terms/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-terms/fa/) |
 
