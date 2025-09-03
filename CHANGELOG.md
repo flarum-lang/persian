@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+0.5.0 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion)
+
+
+All changes: [0.4.1...0.5.0](https://github.com/flarum-lang/persian/compare/0.4.1...0.5.0).
+
+
 0.4.1 (2024-12-12)
 ------------------
 
