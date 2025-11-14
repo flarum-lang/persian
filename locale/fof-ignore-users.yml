@@ -11,6 +11,8 @@ fof-ignore-users:
       discussion_label: 'توسط یک کاربر نادیده گرفته شده شروع شد'
       user_label: 'کاربر نادیده گرفته شده'
     profile_link: 'کاربران نادیده گرفته شده'
+    profile_page:
+      no_ignored: 'به نظر می‌آید که شما هیچ‌کس را نادیده نمی‌گیرید.'
     user_controls:
       ignore_button: 'چشم پوشی'
       ignore_confirmation: 'آیا مطمئنید که می خواهید این کاربر را نادیده بگیرید؟'
