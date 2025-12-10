@@ -2,12 +2,62 @@
 # Use https://weblate.rob006.net/projects/flarum/fof-follow-tags/fa/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
+flarum-gdpr:
+  lib:
+    data:
+      tagsubscription:
+        anonymize_description: 'اشتراک کاربر برای یک برچسب را پاک می‌کند.'
+        export_description: 'در صورت وجود، جزئیات سطح اشتراک برای یک برچسب را خروجی می‌دهد.'
 fof-follow-tags:
+  admin:
+    settings:
+      following_page_default_label: 'محدود کننده پیش‌فرض برای صفحه دنبال‌ کردن‌ها'
+  email:
+    body:
+      newDiscussionInTag: "سلام {recipient_display_name}،\n\n{actor_display_name} یک گفت‌وگو با برچسبی که شما دنبال می‌کنید شروع کرده: {discussion_title}\n\nبرای مشاهده این گفت‌وگوی جدید، لینک زیر را بررسی کنید:\n{discussion_url}\n\n---\n\n{post_content}\n"
+      newDiscussionTag: "سلام {recipient_display_name}،\n\n{actor_display_name} برچسب گفت‌وگوی {author_display_name} با عنوان {discussion_title} را به یک برچسب که شما دنبال می‌کنید تغییر داد.\n\nجهت مشاهده گفت‌وگوهای تازه لینک زیر را بررسی کنید:\n{discussion_url}\n"
+      newPostInTag: "سلام {recipient_display_name}،\n\n{actor_display_name} یک گفت‌وگوی جدید با برچشبی که شما دنبال می‌کنید ارسال کرده: {discussion_title}\n\nجهت مشاهده فعالیت جدید لینک زیر را بررسی کنید:\n{post_url}\n\n---\n\n{post_content}\n\n---\n\nتا زمانی که به روزرسانی نشید، آگاهسازی دیگری در باره این گفت‌وگو دریافت نخواهید کد.\n"
+    subject:
+      newDiscussionInTag: '[برچسب | گفت‌و‌گوی جدید] {title}'
+      newDiscussionTag: '[برچسب | برچسب تغییر کرده] {title}'
+      newPostInTag: '[برچسب | ارسالی جدید] {title}'
   forum:
+    badge:
+      following_tag_tooltip: 'دنبال می‌کند'
+      lurking_tag_tooltip: 'تماشاگر منفعل'
     index:
       follow_tag_button: 'دنبال کردن'
       unfollow_tag_button: 'پایان دنبال کردن'
+    notifications:
+      new_discussion_tag_text: '{username} برچسب را تغییر داد'
+      new_discussion_text: '{username} شروع کرد'
+      new_post_text: '{username} ارسال کرد'
     settings:
       notify_new_discussion_label: 'کسی گفت و گویی با برچسبی که من دنبال می‌کنم شروع کرد'
       notify_new_discussion_tag_label: 'کسی به گفت‌وگویی برچسبی اضافه کرد که من دنبال می‌کنم'
       notify_new_post_label: 'کسی با برچسبی که من دنبال می‌کنم چیزی نوشت'
+    sub_controls:
+      following_text: 'از همه گفت‌وگوهای جدید باخبرم کن.'
+      header: 'اشتراک برای {tagName}'
+      hiding_text: 'مخفی کردن گفت‌وگو از صفحه تمام گفت‌وگوها.'
+      ignoring_text: 'هیچوقت باخبر نشو.'
+      lurking_text: 'از همه گفت‌وگوهای جدید و پاسخ‌ها باخبر شو.'
+      not_following_button: 'دنبال نمی‌کند'
+      not_following_text: 'فقط زمانی که با @ به تو اشاره شد باخبر شو.'
+      notify_alert_tooltip: 'دریافت یک آگاهسازی وقتی گفت‌وگوها یا ارسالی جدیدی بود'
+      notify_email_tooltip: 'یک ایمیل دریافت کن وقتی گفت‌وگوها یا ارسالی جدیدی بود'
+      submit_button: 'تأیید اشتراک'
+      subscription_label: 'میزان اشتراک خود را برای {tagName} انتخاب کنید'
+    user:
+      settings:
+        filter_label: 'چیزی که به صورت پیش‌فرض در صفحه دنبال کردن‌ها نشان داده می‌شود'
+        heading: 'برچسب‌ها را دنبال کن'
+  ref:
+    filtering_options:
+      none: 'گفت‌وگوهای دنبال شده'
+      tags: 'برچسب‌های دنبال شده'
+    follow: 'دنبال کردن'
+    following: 'دنبال می‌کند'
+    hiding: 'مخفی می‌کند'
+    ignoring: 'نادیده می‌گیرد'
+    lurking: 'بدون مشارکت دنبال می‌کند'
