@@ -15,6 +15,7 @@ CHANGELOG
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
 * [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage)
 * [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
