@@ -5,8 +5,14 @@ CHANGELOG
 0.5.0 (XXXX-XX-XX)
 ------------------
 
+**General changes**:
+
+* Updated Flarum core translations.
+
+
 **Added support for new extensions**:
 
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion)
 
 
