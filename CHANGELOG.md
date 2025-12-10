@@ -15,6 +15,7 @@ CHANGELOG
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
 * [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
 * [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion)
@@ -23,6 +24,7 @@ CHANGELOG
 **Updated translations for extensions**:
 
 * [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
 
 
 All changes: [0.4.1...0.5.0](https://github.com/flarum-lang/persian/compare/0.4.1...0.5.0).
