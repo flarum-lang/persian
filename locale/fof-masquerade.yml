@@ -2,6 +2,13 @@
 # Use https://weblate.rob006.net/projects/flarum/fof-masquerade/fa/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
+flarum-gdpr:
+  lib:
+    data:
+      masqueradeanswers:
+        anonymize_description: '=> flarum-gdpr.lib.data.masqueradeanswers.delete_description'
+        delete_description: 'تمام پاسخ‌های فیلدها را از حساب کاربر پاک می‌کند'
+        export_description: 'پاسخ‌های فیلدهای رخ‌نمای کاربر را خروجی می‌دهد'
 fof-masquerade:
   admin:
     buttons:
@@ -13,10 +20,15 @@ fof-masquerade:
       description: 'شرح فیلد'
       description-help: "شرح دل‌بخواهی کاربرد یا ضرورت این فیلد\n"
       edit: 'ویرایش فیلد {field}'
-      icon: نگاره
+      force-user-to-completion: 'کاربر را مجبور کن فرم را پر کند'
+      icon: شکلک
+      icon-help: "یک شکلک جلوی مقادیر وارد شده توسط کاربر نشان می‌دهد. برای بررسی شکل‌های موجود به <a>سایت FontAwesome</a> رجوع کنید. اسم شکلک‌ها را با پیشوند «-fa» مثلاً «fas fa-info» وارد کنید.\n"
       name: 'نام فیلد'
       name-help: "برچسب نام فیلد قابل مشاهده برای عموم (غیر قابل ترجمه)\n"
       on_bio: 'پاسخ این فیلد را در رخ‌نمای کاربر نشان بده'
+      option-comma-warning: 'برچسب یک گزینه نمی‌تواند شامل کاما (,) باشد.'
+      option-new: 'گزینه جدید'
+      options: گزینه‌ها
       prefix: 'پیشوند فیلد'
       prefix-help: "پیشوندهای شما را برای این فیلد جلوی مقادیر وارد شده توسط کاربر نشان می‌دهد.\n"
       required: 'پاسخ به این فیلد اجباری باشد'
@@ -27,8 +39,14 @@ fof-masquerade:
     general-options: 'گزینه‌های عمومی'
     permissions:
       edit-others-profile: 'ویرایش رخ‌نما کاربران دیگر'
-      have-profile: 'داشتن رخ‌نمای مسکرید'
-      view-profile: 'مشاهده رخ‌نمای مسکرید'
+      have-profile: 'داشتن رخ‌نمای masquerade'
+      view-profile: 'مشاهده رخ‌نمای masquerade'
+    types:
+      advanced: پیشرفته
+      boolean: گزینه‌ای
+      email: 'پست الکترونیکی'
+      select: لیستی
+      url: 'آدرس URL'
   forum:
     alerts:
       profile-completed: 'رخ‌نما کامل شد! <a>رفتن به صفحه اصلی</a>'
