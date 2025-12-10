@@ -19,6 +19,9 @@ fof-doorman:
         warning: 'این رمز فراخوانی بیشترین دفعات مجاز استفاده شده.'
     modals:
       create_doorkey:
+        key:
+          help: 'رمزی که کاربر در زمان نام‌نویسی وارد می‌کند.'
+          label: کلید
         submit_and_create_another_button: 'ساختن و اضافه کرد یکی‌دیگر'
         submit_button: 'ساخت رمز فراخوانی'
         title: 'ساخت یک رمز فراخوانی جدید'

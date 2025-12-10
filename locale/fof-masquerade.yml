@@ -38,7 +38,7 @@ fof-masquerade:
       validation-help: "<a>قوائد قابل پشتیبانیLaravel</a>را بررسی کنید. مثلاً: \"string|min:5\" or \"url\".\n"
     general-options: 'گزینه‌های عمومی'
     permissions:
-      edit-others-profile: 'ویرایش رخ‌نما کاربران دیگر'
+      edit-others-profile: 'ویرایش رخ‌نمای کاربران دیگر'
       have-profile: 'داشتن رخ‌نمای masquerade'
       view-profile: 'مشاهده رخ‌نمای masquerade'
     types:
