@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-1.4.2 (XXXX-XX-XX)
+1.0.0 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
@@ -29,7 +29,7 @@ CHANGELOG
 * [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
 
 
-All changes: [0.4.1...1.4.2](https://github.com/flarum-lang/persian/compare/0.4.1...1.4.2).
+All changes: [0.4.1...1.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...1.0.0).
 
 
 0.4.1 (2024-12-12)
