@@ -124,7 +124,6 @@ php flarum cache:clear
 | [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/huoxin-auto-follow-discussion/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huoxin-auto-follow-discussion/fa/) |
 | [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/irmmr-rtl/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/irmmr-rtl/fa/) |
 | [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/sycho-github-milestone/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/sycho-github-milestone/fa/) |
-| [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff) | [![Translation status](https://weblate.rob006.net/widgets/flarum/fa/the-turk-diff/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/the-turk-diff/fa/) |
 
 <!-- various-extensions-list-stop -->
 
