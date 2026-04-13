@@ -4,6 +4,11 @@
 
 core:
   admin:
+    advanced:
+      maintenance:
+        bisect_modal:
+          no_button: خیر
+          yes_button: بله
     appearance:
       colored_header_label: 'سربرگ رنگی'
       colors_heading: رنگ‌ها
