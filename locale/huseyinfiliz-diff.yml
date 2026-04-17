@@ -5,9 +5,17 @@
 huseyinfiliz-diff:
   forum:
     deleteButton: '=> core.forum.post_controls.delete_button'
+    differences:
+      currentContent: '=> huseyinfiliz-diff.ref.currentContent'
+      originalContent: '=> huseyinfiliz-diff.ref.originalContent'
+      revisionWithNumber: '=> huseyinfiliz-diff.ref.revisionWithNumber'
     editedInfo: '=> core.forum.post.edited_tooltip'
     editedText: '=> core.forum.post.edited_text'
     optionsButton: گزینه‌ها
+    previewMode:
+      currentContent: '=> huseyinfiliz-diff.ref.currentContent'
+      originalContent: '=> huseyinfiliz-diff.ref.originalContent'
+      revisionWithNumber: '=> huseyinfiliz-diff.ref.revisionWithNumber'
     tooltips:
       originalContent: '=> huseyinfiliz-diff.ref.originalContent'
       preview: '=> core.forum.composer.preview_tooltip'

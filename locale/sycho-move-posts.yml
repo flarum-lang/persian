@@ -3,6 +3,16 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 sycho-move-posts:
+  admin:
+    permissions:
+      move_posts: '=> sycho-move-posts.ref.move_posts'
   forum:
+    discussion:
+      move_posts: '=> sycho-move-posts.ref.move_posts'
+    error:
+      move_old_post_to_newer_discussion: '=> sycho-move-posts.ref.status.old_to_new_move'
     modal:
       discussion_name: '=> core.forum.composer_discussion.title_placeholder'
+      status:
+        old_to_new_move: '=> sycho-move-posts.ref.status.old_to_new_move'
+      title: '=> sycho-move-posts.ref.move_posts'

@@ -9,3 +9,8 @@ fof-drafts:
       start: 'ایجاد پیش نویس'
     settings:
       enable_scheduled_drafts: 'فعالسازی پیش نویس های زمان بندی شده'
+  forum:
+    dropdown:
+      schedule_button: '=> fof-drafts.ref.schedule_draft'
+    schedule_draft_modal:
+      title: '=> fof-drafts.ref.schedule_draft'
