@@ -21,7 +21,7 @@ flarum-mentions:
       mention_tooltip: 'یک کاربر، گروه یا پست را ذکر کنید'
       reply_to_post_text: 'پاسخ به #{number}'
     group_mention:
-      deleted_text: '[unknown group]'
+      deleted_text: '[گروه ناشناس]'
     mentioned_by:
       load_more_button: '=> core.ref.load_more'
       title: 'پاسخ به این پست'

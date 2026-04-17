@@ -5,6 +5,7 @@
 fof-badges:
   admin:
     cancel: لغو
+    edit: ویرایش
     recalculation:
       cancel: لغو
     recalculation_jobs:

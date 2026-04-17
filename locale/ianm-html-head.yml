@@ -6,3 +6,5 @@ ianm-html-head:
   admin:
     modal:
       save_button: 'درج کردن'
+    table:
+      edit_button: ویرایش

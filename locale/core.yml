@@ -570,6 +570,10 @@ core:
     number_suffix:
       kilo_text: K
       mega_text: M
+    pagination:
+      back_button: 'صفحه قبل'
+      next_button: 'صفحه بعد'
+      page_counter: 'صفحه {current} از {total}'
     search_source:
       discussions:
         heading: '=> core.ref.discussions'
@@ -615,12 +619,15 @@ core:
     mark_all_as_read: 'علامت همه به‌عنوان خوانده‌شده'
     never: هرگز
     new_token: 'توکن جدید'
+    newest: جدیدترین
     next_page: 'صفحه بعد'
     notifications: اعلان‌ها
     okay: باشه
+    oldest: قدیمی‌ترین
     password: رمزعبور
     posts: نوشته‌ها
     previous_page: 'صفحه قبل'
+    refresh: 'تازه کردن'
     remove: حذف
     rename: 'تغییر نام'
     reply: پاسخ
@@ -634,6 +641,7 @@ core:
     some_others: '{count, plural, one {# دیگر} other {# دیگر}}'
     start_a_discussion: 'شروع بحث جدید'
     username: 'نام کاربری'
+    username_or_email_placeholder: 'نام کاربری یا ایمیل'
     users: کاربران
     view: دیدن
     write_a_reply: 'نوشتن پاسخ ...'
