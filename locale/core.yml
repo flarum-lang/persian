@@ -9,6 +9,9 @@ core:
       install_text: 'In the meantime, you can look for extensions at the <a>Flarum Community site</a> and install them manually using Composer.'
       temporary_text: 'One day in the not-too-distant future, this dialog will allow you to add an extension to your forum with ease. We''re building an ecosystem as we speak!'
       title: 'Add Extension'
+    announcements:
+      comments_label: '{count, plural, one {# نظر} other {# نظرات}}'
+      title: اعلامیه‌ها
     appearance:
       colored_header_label: 'سربرگ رنگی'
       colors_heading: رنگ‌ها
