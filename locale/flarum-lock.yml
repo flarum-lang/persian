@@ -19,3 +19,8 @@ flarum-lock:
       discussion_unlocked_text: '{time} {username} این گفتگو را باز کرد.'
     settings:
       notify_discussion_locked_label: 'کسی مبحث من را قفل کرد'
+  lib:
+    gambits:
+      discussions:
+        locked:
+          key: 'قفل شده'

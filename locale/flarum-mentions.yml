@@ -39,7 +39,7 @@ flarum-mentions:
       reply_link: '=> core.ref.reply'
       you_text: '=> core.ref.you'
     post_mention:
-      deleted_text: '[unknown]'
+      deleted_text: '[ناشناخته]'
     settings:
       notify_group_mentioned_label: 'شخصی در یک پست از گروهی که من عضو آن هستم نام برد'
       notify_post_mentioned_label: 'کسی به نوشته من پاسخ داد'
