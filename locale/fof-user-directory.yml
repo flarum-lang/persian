@@ -4,6 +4,8 @@
 
 fof-user-directory:
   forum:
+    hero:
+      title: '=> fof-user-directory.forum.page.nav'
     page:
       load_more_button: '=> core.ref.load_more'
       refresh_tooltip: '=> core.forum.index.refresh_tooltip'
