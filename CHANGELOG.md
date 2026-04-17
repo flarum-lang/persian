@@ -20,7 +20,9 @@ CHANGELOG
 * [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
 * [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`gbcl/oauth-logto`](https://github.com/GBCLStudio/flarum-oauth-logto)
 * [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion)
+* [`krombox/flarum-ext-oauth-wordpress`](https://github.com/krombox/flarum-ext-oauth-wordpress)
 
 
 **Updated translations for extensions**:
