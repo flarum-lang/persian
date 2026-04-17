@@ -2,9 +2,22 @@
 # Use https://weblate.rob006.net/projects/flarum2/ianm-follow-users/fa/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
+flarum-gdpr:
+  lib:
+    data:
+      followuser:
+        anonymize_description: '=> flarum-gdpr.lib.data.followuser.delete_description'
 ianm-follow-users:
   forum:
+    index:
+      follow_tag_button: '=> ianm-follow-users.lib.follow'
+      unfollow_tag_button: '=> ianm-follow-users.lib.change_follow_type'
     modals:
       select_follow_level:
         cancel_btn: لغو
         save_btn: 'درج کردن'
+    profile_link: '=> ianm-follow-users.lib.following_link'
+    user_controls:
+      change_button: '=> ianm-follow-users.lib.change_follow_type'
+      follow_button: '=> ianm-follow-users.lib.follow'
+      unfollow_button: '=> ianm-follow-users.lib.unfollow'
