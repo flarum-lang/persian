@@ -10,6 +10,7 @@ fof-prevent-necrobumping:
     composer:
       warning:
         checkbox_label: 'من می دانم که این بحث نسبتا قدیمی است، اما هنوز هم می خواهم پاسخ بدهم.'
+        cta_button: '=> core.ref.start_a_discussion'
         description: 'بسیار محتمل است که نیازی به بحث بیشتر نداشته باشد و بنابراین ضربه زدن به آن هیچ هدفی ندارد.'
         error: 'این بحث برای پاسخ دادن به آن خیلی قدیمی است.'
         title: 'این بحث برای بیشتر از <b>{time}</b> قبل است.'

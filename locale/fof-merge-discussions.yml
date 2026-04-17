@@ -21,6 +21,8 @@ fof-merge-discussions:
       body: "سلام {recipient_display_name}،\n\nبحث شما، {merged_discussion_title}، توسط {actor_display_name} در {discussion_title} ادغام شد.\n\nاینجا {discussion_url} را مشاهده کنید.\n"
       subject: 'بحث شما "{merged_discussion_title}" ادغام شد'
   forum:
+    discussion:
+      merge: '=> fof-merge-discussions.ref.merge'
     modal:
       load_preview_button: 'پیش نمایش'
       ordering_date_help: 'پست‌ها در نتابج بحث بر اساس تاریخ ایجاد جداگانه مرتب می‌شوند'
@@ -28,6 +30,7 @@ fof-merge-discussions:
       ordering_heading: 'سفارش ادغام'
       ordering_suffix_help: 'پست هایی که در بحث باقی مانده ادغام شده اند در پایان بحث ضمیمه خواهند شد'
       ordering_suffix_label: 'پست های ادغام شده را به انتهای بحث اضافه کنید'
+      submit_button: '=> fof-merge-discussions.ref.merge'
       title: 'ادغام بحث ها'
       type_from_help_text: 'بحث هدف را برای ادغام <b>{title}</b> در آن انتخاب کنید.'
       type_from_label: 'این بحث را در بحث دیگری ادغام کنید'

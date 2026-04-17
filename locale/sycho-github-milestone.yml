@@ -3,5 +3,13 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 sycho-github-milestone:
+  admin:
+    all: '=> sycho-github-milestone.ref.all'
+    closed: '=> sycho-github-milestone.ref.closed'
+    open: '=> sycho-github-milestone.ref.open'
   forum:
+    all: '=> sycho-github-milestone.ref.all'
+    closed: '=> sycho-github-milestone.ref.closed'
     last_updated: 'آخرین بروزرسانی {time}'
+    load_more: '=> core.forum.discussion_list.load_more_button'
+    open: '=> sycho-github-milestone.ref.open'
