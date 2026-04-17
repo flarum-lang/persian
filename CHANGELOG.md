@@ -5,7 +5,7 @@ CHANGELOG
 1.0.0 (XXXX-XX-XX)
 ------------------
 
-**General changes**:
+**تغییرات کلی**:
 
 * Updated Flarum core translations.
 
@@ -75,7 +75,7 @@ CHANGELOG
 * [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone)
 
 
-All changes: [0.4.1...1.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...1.0.0).
+تمام تغییرات: [0.4.1...1.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...1.0.0)
 
 
 0.4.1 (2024-12-12)
