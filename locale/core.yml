@@ -14,6 +14,11 @@ core:
           no_button: خیر
           yes_button: بله
     appearance:
+      color_schemes:
+        dark_hc_mode_label: '=> core.ref.dark_hc_mode_label'
+        dark_mode_label: '=> core.ref.dark_mode_label'
+        light_hc_mode_label: '=> core.ref.light_hc_mode_label'
+        light_mode_label: '=> core.ref.light_mode_label'
       colored_header_label: 'سربرگ رنگی'
       colors_heading: رنگ‌ها
       colors_primary_label: 'رنگ اصلی'
@@ -93,7 +98,7 @@ core:
       delete_button: 'حذف گروه'
       delete_confirmation: 'آیا اطمینان دارید که می خواهید این گروه را حذف کنید ؟ اعضای این گروه حذف نخواهند شد .'
       hide_label: 'پنهان کردن در انجمن'
-      icon_label: آیکون
+      icon_label: '=> core.ref.icon'
       icon_text: '=> core.ref.icon_text'
       name_label: نام
       plural_placeholder: 'جمع (برای مثال: مد ها)'
@@ -153,7 +158,13 @@ core:
       log_out_button: '=> core.ref.log_out'
     loading:
       title: 'لطفا صبر کنید ...'
+    models:
+      discussions: '=> core.ref.discussions'
+      posts: '=> core.ref.posts'
+      users: '=> core.ref.users'
     nav:
+      advanced_button: '=> core.admin.advanced.title'
+      advanced_title: '=> core.admin.advanced.description'
       appearance_button: ظاهر
       appearance_title: '=> core.admin.appearance.description'
       basics_button: 'تنظیمات اصلی'
@@ -243,6 +254,8 @@ core:
           join_time:
             title: 'ملحق شد'
           user_actions:
+            edit_user:
+              button: '=> core.ref.edit'
             title: اجرا
           user_id:
             title: شناسه
@@ -347,18 +360,25 @@ core:
       mark_all_as_read_confirmation: 'برای علامت تمامی مباحث به‌عنوان خوانده‌شده اطمینان دارید؟'
       mark_all_as_read_tooltip: '=> core.ref.mark_all_as_read'
       meta_title_text: '=> core.ref.all_discussions'
+      refresh_tooltip: '=> core.ref.refresh'
       start_discussion_button: '=> core.ref.start_a_discussion'
       toggle_sidenav_dropdown_accessible_label: 'تغییر منوی کشویی پیمایش'
     index_sort:
       latest_button: آخرین
+      newest_button: '=> core.ref.newest'
+      oldest_button: '=> core.ref.oldest'
+      relevance_button: '=> core.ref.relevance'
       toggle_dropdown_accessible_label: 'تغییر مرتب‌سازی فهرست بحث'
       top_button: بالا
     log_in:
       forgot_password_link: 'رمزعبورتان را فراموش کردید؟'
+      invalid_login_message: '=> core.ref.invalid_login_message'
       password_placeholder: '=> core.ref.password'
+      remember_me_label: '=> core.ref.remember_me_label'
       sign_up_text: 'حساب کاربری ندارید؟ <a>ثبت‌نام کنید</a>'
       submit_button: '=> core.ref.log_in'
       title: '=> core.ref.log_in'
+      username_or_email_placeholder: '=> core.ref.username_or_email_placeholder'
     notifications:
       delete_all_tooltip: 'حذف تمامی آگاهی‌ها'
       discussion_renamed_text: '{username} عنوان را تغییر داد'
@@ -380,6 +400,8 @@ core:
       hide_confirmation: 'آیا شما اطمینان دارید که می خواهید این پست را حذف کنید ؟'
       restore_button: '=> core.ref.restore'
       toggle_dropdown_accessible_label: 'تغییر منوی کشویی کنترل های پست'
+    post_list:
+      load_more_button: '=> core.ref.load_more'
     post_scrubber:
       now_link: هم‌اکنون
       original_post_link: 'نوشته اصلی'
@@ -391,6 +413,12 @@ core:
       load_more_button: '=> core.ref.load_more'
       reply_placeholder: '=> core.ref.write_a_reply'
       time_lapsed_text: '{period} بعد'
+    posts:
+      refresh_tooltip: '=> core.ref.refresh'
+    posts_sort:
+      newest_button: '=> core.ref.newest'
+      oldest_button: '=> core.ref.oldest'
+      relevance_button: '=> core.ref.relevance'
     rename_discussion:
       submit_button: '=> core.ref.rename'
       title: 'تغییر نام مبحث'
@@ -430,6 +458,11 @@ core:
       account_heading: 'حساب کاربری'
       change_email_button: '=> core.ref.change_email'
       change_password_button: '=> core.ref.change_password'
+      color_schemes:
+        dark_hc_mode_label: '=> core.ref.dark_hc_mode_label'
+        dark_mode_label: '=> core.ref.dark_mode_label'
+        light_hc_mode_label: '=> core.ref.light_hc_mode_label'
+        light_mode_label: '=> core.ref.light_mode_label'
       notification_checkbox_a11y_label_template: 'دریافت آگاهی‌های "{description}" از طریق {method}'
       notifications_heading: '=> core.ref.notifications'
       notify_by_email_heading: '=> core.ref.email'
@@ -534,10 +567,20 @@ core:
     number_suffix:
       kilo_text: K
       mega_text: M
+    search_source:
+      discussions:
+        heading: '=> core.ref.discussions'
+      posts:
+        heading: '=> core.ref.posts'
+      users:
+        heading: '=> core.ref.users'
     series:
       glue_text: '، '
       three_text: '{first}, {second}, و {third}'
       two_text: '{first} و {second}'
+    user_selection_modal:
+      search_placeholder: '=> core.ref.search_users'
+      submit_button: '=> core.ref.okay'
     username:
       deleted_text: '[حذف شده]'
   ref:
@@ -629,6 +672,13 @@ core:
       all_discussions_heading: '=> core.ref.all_discussions'
       next_page_button: '=> core.ref.next_page'
       previous_page_button: '=> core.ref.previous_page'
+    log_in:
+      invalid_login_message: '=> core.ref.invalid_login_message'
+      password_placeholder: '=> core.ref.password'
+      remember_me_label: '=> core.ref.remember_me_label'
+      submit_button: '=> core.ref.log_in'
+      title: '=> core.ref.log_in'
+      username_or_email_placeholder: '=> core.ref.username_or_email_placeholder'
     log_out:
       log_out_button: '=> core.ref.log_out'
       log_out_confirmation: 'آیا اطمینان دارید که می خواهید از {forum} خارج شوید؟'

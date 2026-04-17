@@ -10,6 +10,8 @@ fof-badges:
     recalculation_jobs:
       cancel: لغو
     save: 'درج کردن'
+    tabs:
+      settings: تنظیمات
   forum:
     user:
       cancel: لغو

@@ -6,3 +6,8 @@ ramon-stickers:
   admin:
     sticker_section:
       cancel_select_button: لغو
+      edit_sticker:
+        saved_message: '=> core.admin.settings.saved_message'
+        submit_button: '=> core.ref.save_changes'
+      sticker_list:
+        load_more_button: '=> core.forum.post_stream.load_more_button'

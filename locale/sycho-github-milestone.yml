@@ -5,3 +5,4 @@
 sycho-github-milestone:
   forum:
     last_updated: 'آخرین بروزرسانی {time}'
+    load_more: '=> core.forum.discussion_list.load_more_button'
