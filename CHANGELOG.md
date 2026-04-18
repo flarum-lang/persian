@@ -5,7 +5,7 @@ CHANGELOG
 2.0.0 (XXXX-XX-XX)
 ------------------
 
-**General changes**:
+**تغییرات کلی**:
 
 * Removed outdated Flarum core translations (version `2.0` or higher is supported).
 * Removed outdated validation translations (version `2.0` or higher is supported).
@@ -116,7 +116,7 @@ CHANGELOG
 * `the-turk-diff`
 
 
-All changes: [0.4.1...2.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...2.0.0).
+تمام تغییرات: [0.4.1...2.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...2.0.0)
 
 
 0.4.1 (2024-12-12)
