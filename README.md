@@ -47,7 +47,7 @@ php flarum cache:clear
 
 <!-- flarum-extensions-list-start -->
 
-| Extension | Status |
+| افزونه | وضعیت |
 | --- | --- |
 | [`flarum/akismet`](https://github.com/flarum/akismet) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-akismet/fa/) |
 | [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-approval/fa/) |
@@ -55,10 +55,12 @@ php flarum cache:clear
 | [`flarum/emoji`](https://github.com/flarum/emoji) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-emoji/fa/) |
 | [`flarum/extension-manager`](https://github.com/flarum/extension-manager) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-extension-manager/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-extension-manager/fa/) |
 | [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-flags/fa/) |
+| [`flarum/gdpr`](https://github.com/flarum/gdpr) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-gdpr/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-gdpr/fa/) |
 | [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-likes/fa/) |
 | [`flarum/lock`](https://github.com/flarum/lock) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-lock/fa/) |
 | [`flarum/markdown`](https://github.com/flarum/markdown) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-markdown/fa/) |
 | [`flarum/mentions`](https://github.com/flarum/mentions) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-mentions/fa/) |
+| [`flarum/messages`](https://github.com/flarum/messages) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-messages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-messages/fa/) |
 | [`flarum/nicknames`](https://github.com/flarum/nicknames) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-nicknames/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-nicknames/fa/) |
 | [`flarum/pusher`](https://github.com/flarum/pusher) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-pusher/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-pusher/fa/) |
 | [`flarum/statistics`](https://github.com/flarum/statistics) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flarum-statistics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-statistics/fa/) |
@@ -74,21 +76,38 @@ php flarum cache:clear
 
 <!-- fof-extensions-list-start -->
 
-| Extension | Status |
+| افزونه | وضعیت |
 | --- | --- |
+| [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-anti-spam/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-anti-spam/fa/) |
+| [`fof/badges`](https://github.com/FriendsOfFlarum/badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-badges/fa/) |
 | [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-byobu/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-byobu/fa/) |
+| [`fof/categories`](https://github.com/FriendsOfFlarum/categories) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-categories/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-categories/fa/) |
+| [`fof/clockwork`](https://github.com/FriendsOfFlarum/clockwork) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-clockwork/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-clockwork/fa/) |
 | [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-discussion-views/fa/) |
 | [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-drafts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-drafts/fa/) |
 | [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-follow-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-follow-tags/fa/) |
 | [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-frontpage/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-frontpage/fa/) |
 | [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-gamification/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-gamification/fa/) |
+| [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-horizon/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-horizon/fa/) |
 | [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-ignore-users/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-ignore-users/fa/) |
+| [`fof/links`](https://github.com/FriendsOfFlarum/links) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-links/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-links/fa/) |
+| [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-masquerade/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-masquerade/fa/) |
 | [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-merge-discussions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-merge-discussions/fa/) |
+| [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-move-posts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-move-posts/fa/) |
+| [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-oauth/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-oauth/fa/) |
+| [`fof/pages`](https://github.com/FriendsOfFlarum/pages) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-pages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-pages/fa/) |
+| [`fof/polls`](https://github.com/FriendsOfFlarum/polls) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-polls/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-polls/fa/) |
+| [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-prevent-necrobumping/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-prevent-necrobumping/fa/) |
 | [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-reactions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-reactions/fa/) |
 | [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-share-social/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-share-social/fa/) |
+| [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-socialprofile/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-socialprofile/fa/) |
 | [`fof/split`](https://github.com/FriendsOfFlarum/split) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-split/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-split/fa/) |
 | [`fof/terms`](https://github.com/FriendsOfFlarum/terms) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-terms/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-terms/fa/) |
+| [`fof/upload`](https://github.com/FriendsOfFlarum/upload) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-upload/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-upload/fa/) |
 | [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-user-bio/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-user-bio/fa/) |
+| [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-user-directory/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-user-directory/fa/) |
+| [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-username-request/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-username-request/fa/) |
+| [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/fof-webhooks/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-webhooks/fa/) |
 
 <!-- fof-extensions-list-stop -->
 
@@ -97,11 +116,34 @@ php flarum cache:clear
 
 <!-- various-extensions-list-start -->
 
-| Extension | Status |
+| افزونه | وضعیت |
 | --- | --- |
+| [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/acpl-mobile-tab/fa/) |
 | [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/acpl-my-tags/fa/) |
 | [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/datlechin-birthdays/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/datlechin-birthdays/fa/) |
+| [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/datlechin-copy-links/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/datlechin-copy-links/fa/) |
+| [`flectar/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/flectar-turnstile/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flectar-turnstile/fa/) |
+| [`forumaker/magicdice`](https://github.com/forumaker/magicdice) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/forumaker-magicdice/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/forumaker-magicdice/fa/) |
+| [`forumaker/magicread`](https://github.com/forumaker/magicread) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/forumaker-magicread/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/forumaker-magicread/fa/) |
+| [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/huseyinfiliz-awards/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/huseyinfiliz-awards/fa/) |
+| [`huseyinfiliz/flarum-diff`](https://github.com/huseyinfiliz/flarum-diff) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/huseyinfiliz-diff/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/huseyinfiliz-diff/fa/) |
+| [`huseyinfiliz/leaderboard`](https://github.com/huseyinfiliz/leaderboard) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/huseyinfiliz-leaderboard/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/huseyinfiliz-leaderboard/fa/) |
+| [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/huseyinfiliz-rewind/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/huseyinfiliz-rewind/fa/) |
+| [`ianm/follow-users`](https://github.com/imorland/follow-users) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ianm-follow-users/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-follow-users/fa/) |
+| [`ianm/html-head`](https://github.com/imorland/html-head) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ianm-html-head/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-html-head/fa/) |
+| [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ianm-twofactor/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-twofactor/fa/) |
+| [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/justoverclock-welcomebox/fa/) |
+| [`quasimo/flarum-ext-carousel-grids`](https://github.com/Quasimo/flarum-ext-carousel-grids) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/quasimo-carousel-grids/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/quasimo-carousel-grids/fa/) |
+| [`quasimo/flarum-ext-tag-sidebar`](https://github.com/Quasimo/flarum-ext-tag-sidebar) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/quasimo-tag-sidebar/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/quasimo-tag-sidebar/fa/) |
+| [`ralkage/flarum-ext-ad-management`](https://github.com/Ralkage/flarum-ext-ad-management) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ralkage-ad-management/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ralkage-ad-management/fa/) |
+| [`ralkage/flarum-ext-linked-accounts`](https://github.com/Ralkage/flarum-ext-linked-accounts) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ralkage-linked-accounts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ralkage-linked-accounts/fa/) |
+| [`ralkage/flarum-ext-profile-messages`](https://github.com/Ralkage/flarum-ext-profile-messages) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ralkage-profile-messages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ralkage-profile-messages/fa/) |
+| [`ramon/stickers`](https://github.com/ram0ng1/stickers) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/ramon-stickers/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ramon-stickers/fa/) |
 | [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/sycho-github-milestone/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-github-milestone/fa/) |
+| [`sycho/flarum-move-posts`](https://github.com/SychO9/flarum-move-posts) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/sycho-move-posts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-move-posts/fa/) |
+| [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/sycho-private-facade/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-private-facade/fa/) |
+| [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/tryhackx-advanced-pages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/tryhackx-advanced-pages/fa/) |
+| [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/yippy-auth-ldap/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/yippy-auth-ldap/fa/) |
 
 <!-- various-extensions-list-stop -->
 
@@ -110,7 +152,7 @@ php flarum cache:clear
 
 <!-- premium-extensions-list-start -->
 
-| Extension | Status |
+| افزونه | وضعیت |
 | --- | --- |
 
 <!-- premium-extensions-list-stop -->
