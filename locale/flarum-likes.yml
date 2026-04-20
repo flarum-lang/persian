@@ -27,3 +27,8 @@ flarum-likes:
       notify_post_liked_label: 'کسی نوشته من را پسندید'
     user:
       likes_link: لایک
+  lib:
+    gambits:
+      posts:
+        likedBy:
+          hint: 'شناسه یا نام کاربری کاربر'
