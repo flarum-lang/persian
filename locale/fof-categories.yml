@@ -11,3 +11,8 @@ fof-categories:
       meta_title_text: '=> fof-categories.ref.categories'
     index:
       categories_link: '=> fof-categories.ref.categories'
+    stat-widgets:
+      discussion_label: مباحث
+      post_label: نوشته‌ها
+  ref:
+    categories: دسته‌بندی‌ها
