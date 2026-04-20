@@ -18,6 +18,7 @@ CHANGELOG
 * [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget)
 * [`flarum/gdpr`](https://github.com/flarum/gdpr)
 * [`flarum/messages`](https://github.com/flarum/messages)
+* [`flarum/realtime`](https://github.com/flarum/realtime)
 * [`flectar/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile)
 * [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
 * [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
