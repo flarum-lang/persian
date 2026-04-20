@@ -6,3 +6,6 @@ acpl-mobile-tab:
   admin:
     edit_item:
       submit_button: 'درج کردن'
+  lib:
+    item:
+      all_discussions: مباحث

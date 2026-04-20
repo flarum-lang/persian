@@ -4,5 +4,7 @@
 
 ralkage-profile-messages:
   forum:
+    composer:
+      save_button: 'ذخیره تغییرات'
     message:
       edit_button: ویرایش

@@ -6,3 +6,15 @@ huseyinfiliz-rewind:
   admin:
     generate_modal:
       cancel: لغو
+    settings:
+      slide_discussion_count: مباحث
+      slide_post_count: نوشته‌ها
+  forum:
+    community_slideshow:
+      discussions: مباحث
+      posts: نوشته‌ها
+    metrics:
+      discussion_count:
+        title: مباحث
+      post_count:
+        title: نوشته‌ها

@@ -4,5 +4,7 @@
 
 fof-anti-spam:
   admin:
+    blocked_registrations:
+      username: 'نام کاربری'
     settings:
       button: تنظیمات
