@@ -36,6 +36,7 @@ CHANGELOG
 * [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
 * [`fof/pages`](https://github.com/FriendsOfFlarum/pages)
 * [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
 * [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
