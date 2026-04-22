@@ -6,15 +6,20 @@ ramon-avocado:
   admin:
     settings:
       section_posts: نوشته‌ها
+      section_search: جستجو
   forum:
     discussion:
       post_plural: نوشته‌ها
+    header:
+      search: جستجو
     home:
       discussion_singular: بحث
       discussions: مباحث
     search:
+      search_button: جستجو
       tab_discussions: مباحث
       tab_posts: نوشته‌ها
+      title: جستجو
     tags:
       discussion_plural: مباحث
       discussion_singular: بحث
