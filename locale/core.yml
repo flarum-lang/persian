@@ -13,6 +13,10 @@ core:
         bisect_modal:
           no_button: خیر
           yes_button: بله
+      search:
+        driver_heading: 'جستجوی درایور: {model}'
+        section_label: 'جستجوی درایورها'
+      title: پیشرفته
     announcements:
       comments_label: '{count, plural, one {# نظر} other {# نظرات}}'
       title: اعلامیه‌ها
@@ -166,6 +170,8 @@ core:
     header:
       get_help: 'کمک بگیرید'
       log_out_button: '=> core.ref.log_out'
+      search_placeholder: جستجو...
+      search_role_label: جستجو
     loading:
       title: 'لطفا صبر کنید ...'
     models:
@@ -588,6 +594,8 @@ core:
       back_button: 'صفحه قبل'
       next_button: 'صفحه بعد'
       page_counter: 'صفحه {current} از {total}'
+    search:
+      title: جستجو
     search_source:
       discussions:
         heading: '=> core.ref.discussions'
