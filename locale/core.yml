@@ -66,6 +66,7 @@ core:
       slug_driver_options:
         users:
           default: 'نام کاربری'
+          id: شناسه
       slug_driver_text: 'درایوری را انتخاب کنید که برای slugging این مدل استفاده شود .'
       title: پایه‌ای
       welcome_banner_heading: 'بنر خوش‌آمد گویی'
