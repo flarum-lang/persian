@@ -152,6 +152,7 @@ php flarum cache:clear
 | [`sycho/flarum-move-posts`](https://github.com/SychO9/flarum-move-posts) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/sycho-move-posts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-move-posts/fa/) |
 | [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/sycho-private-facade/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-private-facade/fa/) |
 | [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/tryhackx-advanced-pages/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/tryhackx-advanced-pages/fa/) |
+| [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/walsgit-recycle-bin/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/walsgit-recycle-bin/fa/) |
 | [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/fa/yippy-auth-ldap/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/yippy-auth-ldap/fa/) |
 
 <!-- various-extensions-list-stop -->
