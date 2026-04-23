@@ -67,6 +67,7 @@ CHANGELOG
 * [`sycho/flarum-move-posts`](https://github.com/SychO9/flarum-move-posts)
 * [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade)
 * [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages)
+* [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin)
 * [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap)
 
 
