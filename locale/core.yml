@@ -192,6 +192,7 @@ core:
         discussion: بحث
         feature: امکانات
         formatting: 'قالب بندی'
+        infrastructure: زیرساخت
         language: 'زبان ها'
         moderation: مدیریت
         other: 'سایر افزونه ها'
@@ -293,10 +294,14 @@ core:
       subject: 'تأیید حساب کاربری جدید'
     confirm_email:
       subject: 'تأیید ایمیل جدید'
+    greeting: 'سلام {displayName}،'
+    notification:
+      default_title: اطلاعیه
     reset_password:
       subject: '=> core.ref.reset_your_password'
     send_test:
       subject: 'تست ایمیل Flarum'
+    signoff: 'تیم {forumTitle}'
   forum:
     change_email:
       confirm_password_placeholder: '=> core.ref.confirm_password'
@@ -579,6 +584,8 @@ core:
       users:
         email:
           key: ایمیل
+        group:
+          key: گروه
     loading_indicator:
       accessible_label: '=> core.ref.loading'
     meta_titles:
@@ -596,6 +603,9 @@ core:
       next_button: 'صفحه بعد'
       page_counter: 'صفحه {current} از {total}'
     search:
+      options_heading: 'گزینه‌های جستجو'
+      placeholder: جستجو...
+      preview_heading: 'پیش‌نمایش جستجو'
       title: جستجو
     search_source:
       discussions:
@@ -722,3 +732,5 @@ core:
       new_password_label: 'رمزعبور جدید'
       submit_button: '=> core.ref.save_changes'
       title: '=> core.ref.reset_your_password'
+    unsubscribe_email:
+      return_to_forum: 'بازگشت به {forumTitle}'
