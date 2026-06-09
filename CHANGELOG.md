@@ -27,6 +27,7 @@ CHANGELOG
 * [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
 * [`fof/clockwork`](https://github.com/FriendsOfFlarum/clockwork)
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
 * [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
 * [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget)
 * [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage)
