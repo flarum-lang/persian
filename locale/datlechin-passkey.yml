@@ -9,5 +9,6 @@ datlechin-passkey:
         cancel_button: لغو
       rename_modal:
         cancel_button: لغو
+        save_button: 'درج کردن'
       revoke_modal:
         cancel_button: لغو
