@@ -3,6 +3,10 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 linkrobins-support:
+  admin:
+    category_editor:
+      submit_update: 'ذخیره تغییرات'
   forum:
     action:
       cancel: لغو
+      save_changes: 'ذخیره تغییرات'

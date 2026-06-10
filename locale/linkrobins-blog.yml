@@ -6,6 +6,9 @@ linkrobins-blog:
   admin:
     edit_category:
       cancel_button: لغو
+      save_button: 'ذخیره تغییرات'
+    settings:
+      save_button: 'ذخیره تغییرات'
   forum:
     edit_post:
       cancel_button: لغو

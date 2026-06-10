@@ -5,6 +5,8 @@
 ramon-point-system:
   admin:
     cancel: لغو
+    rules:
+      save: 'ذخیره تغییرات'
     save: 'درج کردن'
   forum:
     confirm:

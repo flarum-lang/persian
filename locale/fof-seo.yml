@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-seo:
+  admin:
+    common:
+      save_changes: 'ذخیره تغییرات'
   forum:
     meta_seo:
       close:
