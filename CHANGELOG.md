@@ -143,7 +143,7 @@ CHANGELOG
 * [`fof/spamblock`](https://github.com/FriendsOfFlarum/spamblock)
 * [`foskym/flarum-issue-tracking`](https://github.com/FoskyM/flarum-issue-tracking)
 * [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl)
-* `the-turk-diff`
+* [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff)
 
 
 تمام تغییرات: [0.4.1...2.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...2.0.0)
