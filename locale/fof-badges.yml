@@ -12,6 +12,7 @@ fof-badges:
       cancel: لغو
     save: 'درج کردن'
     tabs:
+      categories: دسته‌بندی‌ها
       settings: تنظیمات
   forum:
     user:

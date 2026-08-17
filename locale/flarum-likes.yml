@@ -32,3 +32,4 @@ flarum-likes:
       posts:
         likedBy:
           hint: 'شناسه یا نام کاربری کاربر'
+          key: likedBy
