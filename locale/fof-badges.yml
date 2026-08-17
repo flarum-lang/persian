@@ -11,6 +11,9 @@ fof-badges:
     recalculation_jobs:
       cancel: لغو
     save: 'درج کردن'
+    settings:
+      primary_badge_icon: 'فقط نماد'
+      primary_badge_icon_name: 'نماد و نام'
     tabs:
       categories: دسته‌بندی‌ها
       settings: تنظیمات
