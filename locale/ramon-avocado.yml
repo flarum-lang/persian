@@ -8,6 +8,8 @@ ramon-avocado:
       section_posts: نوشته‌ها
       section_search: جستجو
   forum:
+    bookmarks:
+      modal_cancel: لغو
     discussion:
       post_plural: نوشته‌ها
     header:

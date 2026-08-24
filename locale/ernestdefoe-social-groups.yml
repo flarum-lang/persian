@@ -9,3 +9,5 @@ ernestdefoe-social-groups:
       save_edit: 'درج کردن'
     edit_modal:
       submit: 'ذخیره تغییرات'
+    share_modal:
+      cancel: لغو
