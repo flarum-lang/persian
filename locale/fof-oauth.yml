@@ -25,3 +25,6 @@ fof-oauth:
           client_id_label: '=> fof-oauth.ref.settings.client_id'
           client_secret_label: '=> fof-oauth.ref.settings.client_secret'
     settings_accessibility_label: 'تنظیمات {name}'
+  ref:
+    settings:
+      client_id: 'شناسه مشتری'

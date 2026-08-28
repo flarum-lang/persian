@@ -8,4 +8,7 @@ datitisev-backup:
       ftp:
         username:
           label: 'نام کاربری'
+      gdrive:
+        client-id:
+          label: 'شناسه مشتری'
     delete_button: حذف
