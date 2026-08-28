@@ -5,7 +5,9 @@
 core:
   admin:
     advanced:
+      description: 'تنظیمات پیشرفته انجمن خود را پیکربندی کنید.'
       fontawesome:
+        cdn_url_label: 'CDN URL'
         preview:
           pro_label: 'فقط Pro'
         source_cdn: CDN
@@ -19,6 +21,8 @@ core:
       title: پیشرفته
     announcements:
       comments_label: '{count, plural, one {# نظر} other {# نظرات}}'
+      read_more: 'بیشتر بخوانید'
+      retry: 'دوباره تلاش کنید'
       title: اعلامیه‌ها
     appearance:
       color_schemes:
@@ -86,6 +90,7 @@ core:
       clear_cache_button: 'پاک کردن cache'
       description: 'انجمن شما در یک نگاه.'
       io_error_message: 'نمی‌توان به دیسک نوشت. لطفاً مجوزهای دیسک خود را بازبینی و دوباره تلاش کنید و یا از طریق خط فرمان اجرا کنید.'
+      queue_paused_manage: مدیریت
       status:
         headers:
           queue-driver: 'صف درایور'
@@ -129,6 +134,8 @@ core:
       description: 'درایور ، تنظیمات و آدرس‌هایی را که انجمن شما برای ارسال ایمیل استفاده می‌کند ، پیکربندی کنید .'
       driver_heading: 'یک درایور انتخاب کنید'
       driver_label: درایور
+      format:
+        html_option: HTML
       from_label: 'ارسال کننده'
       mail_encryption_label: رمزنگاری
       mail_host_label: هاست
@@ -149,6 +156,7 @@ core:
     extension:
       configure_scopes: 'پیکربندی محدوده'
       confirm_purge: 'پاکسازی ، تمام ورودی‌های پایگاه داده و دارایی‌های مربوط به افزودنی را حذف می‌کند . این مورد افزودنی را حذف نصب نمی کند ; این مورد باید توسط Composer انجام شود . آیا اطمینان دارید که می خواهید ادامه دهید ؟'
+      deprecated: منسوخ
       disabled: 'غیرفعال شد'
       enable_to_see: 'افزونه را برای مشاهده و تغییر تنظیمات فعال کنید .'
       enabled: 'فعال شد'
@@ -170,6 +178,9 @@ core:
         title: 'مستندات {extName}'
       reset_settings:
         cancel_button: لغو
+    failed_jobs:
+      delete: حذف
+      details: جزئیات
     header:
       get_help: 'کمک بگیرید'
       log_out_button: '=> core.ref.log_out'
@@ -251,6 +262,8 @@ core:
       members_button: '=> core.group.members'
       signup_closed_button: بسته‌شده
       signup_open_button: باز
+    queue_widget:
+      refresh: 'تازه کردن'
     settings:
       saved_message: 'تغییرات شما ذخیره شد.'
       submit_button: '=> core.ref.save_changes'
@@ -385,15 +398,18 @@ core:
       mark_all_as_read_tooltip: '=> core.ref.mark_all_as_read'
       meta_title_text: '=> core.ref.all_discussions'
       refresh_tooltip: '=> core.ref.refresh'
+      skip_to_main_content: 'رفتن به محتوای اصلی'
       start_discussion_button: '=> core.ref.start_a_discussion'
       toggle_sidenav_dropdown_accessible_label: 'تغییر منوی کشویی پیمایش'
     index_sort:
-      latest_button: آخرین
+      az_button: '=> core.ref.title_az'
+      latest_button: '=> core.ref.latest'
       newest_button: '=> core.ref.newest'
       oldest_button: '=> core.ref.oldest'
       relevance_button: '=> core.ref.relevance'
       toggle_dropdown_accessible_label: 'تغییر مرتب‌سازی فهرست بحث'
-      top_button: بالا
+      top_button: '=> core.ref.top'
+      za_button: '=> core.ref.title_za'
     log_in:
       forgot_password_link: 'رمزعبورتان را فراموش کردید؟'
       invalid_login_message: '=> core.ref.invalid_login_message'
@@ -588,6 +604,14 @@ core:
           key: ایمیل
         group:
           key: گروه
+    index_sort:
+      az_button: '=> core.ref.title_az'
+      latest_button: '=> core.ref.latest'
+      newest_button: '=> core.ref.newest'
+      oldest_button: '=> core.ref.oldest'
+      relevance_button: '=> core.ref.relevance'
+      top_button: '=> core.ref.top'
+      za_button: '=> core.ref.title_za'
     loading_indicator:
       accessible_label: '=> core.ref.loading'
     meta_titles:
@@ -672,7 +696,7 @@ core:
     search_users: 'جستجوی کاربر'
     security: امنیت
     settings: تنظیمات
-    sign_up: 'ثبت‌ نام'
+    sign_up: ثبت‌نام
     some_others: '{count, plural, one {# دیگر} other {# دیگر}}'
     start_a_discussion: 'شروع بحث جدید'
     username: 'نام کاربری'

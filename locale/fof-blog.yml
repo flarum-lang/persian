@@ -5,3 +5,7 @@
 fof-blog:
   admin:
     blog: وبلاگ
+  forum:
+    article:
+      slug: اسلاگ
+    read_more: 'بیشتر بخوانید'

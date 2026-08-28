@@ -4,9 +4,14 @@
 
 linkrobins-support:
   admin:
+    categories:
+      column_slug: اسلاگ
+      delete_button: حذف
     category_editor:
+      field_slug: اسلاگ
       submit_update: 'ذخیره تغییرات'
   forum:
     action:
       cancel: لغو
+      delete: حذف
       save_changes: 'ذخیره تغییرات'

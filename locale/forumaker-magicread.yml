@@ -6,3 +6,5 @@ forumaker-magicread:
   admin:
     settings:
       section_main: تنظیمات
+  forum:
+    read_more: 'بیشتر بخوانید'

@@ -3,6 +3,15 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 linkrobins-wiki:
+  admin:
+    categories:
+      column_name: نام
+      column_slug: اسلاگ
+      delete_button: حذف
+    category_editor:
+      field_name: نام
+      field_slug: اسلاگ
   forum:
     action:
       cancel: لغو
+      delete: حذف

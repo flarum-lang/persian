@@ -18,6 +18,7 @@ ramon-avocado:
     home:
       discussion_singular: بحث
       discussions: مباحث
+      sign_up: ثبت‌نام
     search:
       search_button: جستجو
       tab_discussions: مباحث

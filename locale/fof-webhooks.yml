@@ -22,3 +22,6 @@ fof-webhooks:
           user:
             deleted: '=> fof-webhooks.ref.deleted'
             renamed: '=> fof-webhooks.ref.renamed'
+      modal:
+        group_label: گروه
+        name_label: نام

@@ -4,5 +4,6 @@
 
 ernestdefoe-giveaways:
   forum:
+    description_label: جزئیات
     form:
       cancel: لغو

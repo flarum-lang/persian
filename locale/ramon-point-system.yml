@@ -4,13 +4,28 @@
 
 ramon-point-system:
   admin:
+    all_trades:
+      refresh: 'تازه کردن'
+    avatar:
+      field_name: نام
     cancel: لغو
+    cover:
+      field_name: نام
+    groups:
+      col_group: گروه
+      field_group: گروه
     manual:
       bulk_confirm_no: لغو
       submit: اعمال
+    name:
+      field_name: نام
+    post_hl:
+      field_name: نام
     rules:
       save: 'ذخیره تغییرات'
     save: 'درج کردن'
+    submissions:
+      refresh: 'تازه کردن'
     users:
       apply: اعمال
   forum:

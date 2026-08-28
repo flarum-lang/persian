@@ -8,3 +8,4 @@ datitisev-backup:
       ftp:
         username:
           label: 'نام کاربری'
+    delete_button: حذف

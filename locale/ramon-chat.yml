@@ -3,9 +3,16 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 ramon-chat:
+  admin:
+    settings:
+      webhook_delete: حذف
+    webhooks:
+      delete: حذف
   forum:
     composer:
       cancel_edit: لغو
+    message:
+      delete: حذف
     new_channel:
       cancel: لغو
     selection:

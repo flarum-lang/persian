@@ -10,3 +10,5 @@ ramon-backup:
       cancel_button: لغو
     import_modal:
       cancel_button: لغو
+    list:
+      delete_title: حذف

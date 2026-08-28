@@ -4,8 +4,17 @@
 
 fof-badges:
   admin:
+    badge_name: نام
+    badge_slug: اسلاگ
     cancel: لغو
+    category_name: نام
+    category_slug: اسلاگ
+    delete: حذف
     edit: ویرایش
+    headers:
+      name: نام
+    next: بعدی
+    previous: قبلی
     recalculate_tab:
       default: پیش‌فرض
     recalculation:
@@ -20,5 +29,6 @@ fof-badges:
       categories: دسته‌بندی‌ها
       settings: تنظیمات
   forum:
+    new_tag: جدید
     user:
       cancel: لغو

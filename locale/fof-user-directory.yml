@@ -12,6 +12,10 @@ fof-user-directory:
     page:
       load_more_button: '=> core.ref.load_more'
       refresh_tooltip: '=> core.forum.index.refresh_tooltip'
+    search:
+      kinds:
+        group: گروه
   lib:
     sort:
       default: پیش‌فرض
+      not_specified: 'از پیش‌فرض Flarum استفاده کنید'

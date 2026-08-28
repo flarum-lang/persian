@@ -4,5 +4,31 @@
 
 flarum-messages:
   forum:
+    composer:
+      recipients: گیرندگان
+      submit_button: 'ارسال پیام'
+      to: 'به:'
     dialog_list:
       load_more_button: '=> core.ref.load_more'
+      mark_as_read_tooltip: 'علامت‌گذاری به‌عنوان خوانده'
+      title: پیام‌ها
+    dialog_section:
+      controls:
+        details_button: جزئیات
+      details_modal:
+        recipients: شرکت‌کنندگان
+    header:
+      dropdown_tooltip: پیام‌ها
+    index:
+      messages_link: پیام‌ها
+    message_controls:
+      delete_button: حذف
+    messages_page:
+      hero:
+        title: پیام‌ها
+      refresh_tooltip: 'تازه کردن'
+      stream:
+        time_lapsed_text: '=> core.forum.post_stream.time_lapsed_text'
+      title: پیام‌ها
+    user_controls:
+      send_message_button: 'ارسال پیام'
