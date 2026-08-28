@@ -6,6 +6,8 @@ fof-badges:
   admin:
     cancel: لغو
     edit: ویرایش
+    recalculate_tab:
+      default: پیش‌فرض
     recalculation:
       cancel: لغو
     recalculation_jobs:

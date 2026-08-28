@@ -5,6 +5,8 @@
 flarum-tags:
   admin:
     basics:
+      slug_driver_options:
+        default: پیش‌فرض
       tags_label: '=> flarum-tags.ref.name'
     edit_tag:
       color_label: '=> core.ref.color'

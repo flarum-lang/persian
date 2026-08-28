@@ -50,6 +50,8 @@ core:
       title: ظاهر
     basics:
       all_discussions_label: '=> core.ref.all_discussions'
+      avatar_driver_options:
+        default: پیش‌فرض
       default_language_heading: 'زبان پیشفرض'
       description: 'عنوان انجمن ، زبان و سایر تنظیمات اساسی خود را تنظیم کنید.'
       display_name_driver_options:

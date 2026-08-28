@@ -8,6 +8,8 @@ ralkage-ad-management:
     save: 'درج کردن'
     tabs:
       settings: تنظیمات
+    zones:
+      default_badge: پیش‌فرض
   forum:
     page:
       cancel: لغو

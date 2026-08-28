@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-prevent-necrobumping:
+  admin:
+    settings:
+      tags_placeholder: پیش‌فرض
   forum:
     composer:
       inactive_discussion_alert:

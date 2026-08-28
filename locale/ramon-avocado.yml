@@ -5,6 +5,7 @@
 ramon-avocado:
   admin:
     settings:
+      disc_style_default: پیش‌فرض
       section_posts: نوشته‌ها
       section_search: جستجو
   forum:
