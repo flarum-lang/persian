@@ -7,9 +7,12 @@ ramon-point-system:
     cancel: لغو
     manual:
       bulk_confirm_no: لغو
+      submit: اعمال
     rules:
       save: 'ذخیره تغییرات'
     save: 'درج کردن'
+    users:
+      apply: اعمال
   forum:
     confirm:
       cancel: لغو

@@ -17,3 +17,8 @@ flarum-approval:
       approve_button: تأیید
   ref:
     awaiting_approval: 'در انتظار تأیید شدن'
+flarum-audit:
+  lib:
+    browser:
+      discussion:
+        approved: '{discussion} تأیید شد'
