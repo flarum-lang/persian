@@ -12,8 +12,13 @@ core:
           pro_label: 'فقط Pro'
         source_cdn: CDN
       maintenance:
+        bisect:
+          help: 'به شناسایی افزونه‌ای که باعث ایجاد مشکلی که مشاهده کرده‌اید کمک می‌کند. این کار به طور خودکار انجمن را در حالت تعمیر و نگهداری (پایین) قرار می‌دهد تا زمانی که پردازش به پایان برسد.'
         bisect_modal:
+          end_button: 'ببندید و به صفحه افزونه بروید'
+          issue_question: 'آیا مشکل همچنان روی می‌دهد؟'
           no_button: خیر
+          total_steps: 'این کار حدود {steps} مرحله طول خواهد کشید.'
           yes_button: بله
       search:
         driver_heading: 'جستجوی درایور: {model}'
