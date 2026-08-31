@@ -11,10 +11,22 @@ flarum-mentions:
       allow_username_format_text: "قالب فعلی برای نام‌های کاربر @\"Display Name\"#ID است.\nاین تنظیم امکان استفاده از فرمت قدیمی @Username را می دهد، اما پس از ذخیره همچنان به فرمت جدید تبدیل می شود.\n"
   email:
     group_mentioned:
+      html:
+        body: '{mentioner_display_name} در [{title}]({url}) به گروهی که شما عضو آن هستید اشاره کرده است.'
+      plain:
+        body: "{mentioner_display_name} در {title} به گروهی که شما عضو آن هستید اشاره کرد.\n\n{url}\n\n---\n\n{content}\n"
       subject: '{mentioner_display_name} از گروهی که شما عضو آن هستید در {title} نام برد'
     post_mentioned:
+      html:
+        body: '{replier_display_name} به پست شما (#{post_number}) در [{title}]({url}) پاسخ داد.'
+      plain:
+        body: "{replier_display_name} به پست شما (#{post_number}) در {title} پاسخ داد.\n\n{url}\n\n---\n\n{content}\n"
       subject: '{replier_display_name} به پست شما در {title} پاسخ داد'
     user_mentioned:
+      html:
+        body: '{mentioner_display_name} در پستی در [{title}]({url}) از شما نام برده است.'
+      plain:
+        body: "{mentioner_display_name} به شما در پستی در {title} اشاره کرد.\n\n{url}\n\n---\n\n{content}\n"
       subject: '{mentioner_display_name} از شما در {title} نام برد'
   forum:
     composer:
@@ -46,3 +58,9 @@ flarum-mentions:
       notify_user_mentioned_label: 'کسی در نوشته‌ای از من نام برد'
     user:
       mentions_link: اشارات
+  lib:
+    gambits:
+      posts:
+        mentioned:
+          hint: 'شناسه یا نام کاربری کاربر نام برده شده'
+          key: 'اشاره شده'
