@@ -2,6 +2,12 @@
 # Use https://weblate.rob006.net/projects/flarum2/flarum-flags/fa/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
+flarum-audit:
+  lib:
+    browser:
+      post:
+        dismissed_flags: 'علامت‌های رد شده در {post} کاربر {postuser} در {discussion}'
+        flagged: '{post} کاربر {postuser} به عنوان {reason} در {discussion} علامت‌گذاری شد'
 flarum-flags:
   admin:
     permissions:

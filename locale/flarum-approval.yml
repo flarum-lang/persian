@@ -22,3 +22,5 @@ flarum-audit:
     browser:
       discussion:
         approved: '{discussion} تأیید شد'
+      post:
+        approved: '{post} {postuser} در {discussion} تایید شد'
