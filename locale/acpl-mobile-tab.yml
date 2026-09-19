@@ -5,7 +5,7 @@
 acpl-mobile-tab:
   forum:
     all_discussions: 'بحث ها'
-    categories: '=> askvortsov-categories.forum.index.categories_link'
+    categories: دسته‌بندی‌ها
     home: خانه
     log_in: '=> core.forum.header.log_in_link'
     notifications: '=> core.forum.notifications.title'
