@@ -65,6 +65,9 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
 * [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
 * [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users)
