@@ -140,7 +140,7 @@ CHANGELOG
 * [`flarum/nicknames`](https://github.com/flarum/nicknames) (2 added)
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 added, 3 changed, 1 removed)
 * [`flarum/suspend`](https://github.com/flarum/suspend) (3 removed)
-* [`flarum/tags`](https://github.com/flarum/tags) (1 added, 2 changed, 18 removed)
+* [`flarum/tags`](https://github.com/flarum/tags) (1 added, 2 changed, 16 removed)
 * [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips) (14 added, 3 removed)
 * [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) (4 removed)
 * [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) (2 added)
