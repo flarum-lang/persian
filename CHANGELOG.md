@@ -5,10 +5,10 @@ CHANGELOG
 2.0.0 (XXXX-XX-XX)
 ------------------
 
-**تغییرات کلی**:
+**General changes**:
 
-* Removed outdated Flarum core translations (version `2.0` or higher is supported).
-* Removed outdated validation translations (version `2.0` or higher is supported).
+* Updated Flarum core translations (90 added, 17 changed, 70 removed).
+* Updated validation translations (75 removed).
 
 
 **Added support for new extensions**:
@@ -124,40 +124,32 @@ CHANGELOG
 * [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap)
 
 
-**Updated and/or removed outdated translations for extensions**:
+**Updated translations for extensions**:
 
-* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
-* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
-* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
-* [`flarum/akismet`](https://github.com/flarum/akismet)
-* [`flarum/approval`](https://github.com/flarum/approval)
-* [`flarum/bbcode`](https://github.com/flarum/bbcode)
-* [`flarum/emoji`](https://github.com/flarum/emoji)
-* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
-* [`flarum/flags`](https://github.com/flarum/flags)
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/lock`](https://github.com/flarum/lock)
-* [`flarum/markdown`](https://github.com/flarum/markdown)
-* [`flarum/mentions`](https://github.com/flarum/mentions)
-* [`flarum/nicknames`](https://github.com/flarum/nicknames)
-* [`flarum/pusher`](https://github.com/flarum/pusher)
-* [`flarum/statistics`](https://github.com/flarum/statistics)
-* [`flarum/sticky`](https://github.com/flarum/sticky)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`flarum/suspend`](https://github.com/flarum/suspend)
-* [`flarum/tags`](https://github.com/flarum/tags)
-* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
-* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
-* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
-* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
-* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users)
-* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
-* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
-* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
-* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
-* [`fof/split`](https://github.com/FriendsOfFlarum/split)
-* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
-* [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone)
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) (2 added, 7 removed)
+* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays) (1 added, 1 removed)
+* [`flarum/akismet`](https://github.com/flarum/akismet) (1 added)
+* [`flarum/approval`](https://github.com/flarum/approval) (2 added)
+* [`flarum/emoji`](https://github.com/flarum/emoji) (2 added)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager) (18 added, 5 changed, 18 removed)
+* [`flarum/flags`](https://github.com/flarum/flags) (3 added)
+* [`flarum/likes`](https://github.com/flarum/likes) (2 added)
+* [`flarum/lock`](https://github.com/flarum/lock) (3 added)
+* [`flarum/markdown`](https://github.com/flarum/markdown) (11 removed)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (8 added, 2 changed, 3 removed)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames) (2 added)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (1 added, 3 changed, 1 removed)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (3 removed)
+* [`flarum/tags`](https://github.com/flarum/tags) (1 added, 2 changed, 18 removed)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips) (14 added, 3 removed)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) (4 removed)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) (2 added)
+* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users) (1 added)
+* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions) (2 added, 5 removed)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (10 added, 1 changed)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) (2 added, 5 removed)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms) (34 added)
+* [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) (7 added)
 
 
 **Removed support for outdated extensions**:
@@ -180,7 +172,7 @@ CHANGELOG
 * [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff)
 
 
-تمام تغییرات: [0.4.1...2.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...2.0.0)
+All changes: [0.4.1...2.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...2.0.0).
 
 
 0.4.1 (2024-12-12)
