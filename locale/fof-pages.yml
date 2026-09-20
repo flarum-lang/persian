@@ -20,3 +20,5 @@ fof-pages:
       create_button: '=> fof-pages.ref.create_page'
     pages_list:
       title: '=> fof-pages.ref.title'
+  ref:
+    slug: اسلاگ

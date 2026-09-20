@@ -4,5 +4,6 @@
 
 flarum-ext-welcomebox:
   forum:
+    SettingsLink: تنظیمات
     discussion: '=> core.ref.discussions'
     npost: '=> core.ref.posts'

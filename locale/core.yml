@@ -11,6 +11,8 @@ core:
       title: 'Add Extension'
     announcements:
       comments_label: '{count, plural, one {# نظر} other {# نظرات}}'
+      read_more: 'بیشتر بخوانید'
+      retry: 'دوباره تلاش کنید'
       title: اعلامیه‌ها
     appearance:
       colored_header_label: 'سربرگ رنگی'
@@ -67,7 +69,7 @@ core:
       username_placeholder: '=> core.ref.username'
     dashboard:
       clear_cache_button: 'پاک کردن cache'
-      description: 'انجمن شما در یک نگاه'
+      description: 'انجمن شما در یک نگاه.'
       io_error_message: 'نمی‌توان به دیسک نوشت. لطفاً مجوزهای دیسک خود را بازبینی و دوباره تلاش کنید و یا از طریق خط فرمان اجرا کنید.'
       status:
         headers:
@@ -96,7 +98,7 @@ core:
       delete_button: 'حذف گروه'
       delete_confirmation: 'آیا اطمینان دارید که می خواهید این گروه را حذف کنید ؟ اعضای این گروه حذف نخواهند شد .'
       hide_label: 'پنهان کردن در انجمن'
-      icon_label: آیکون
+      icon_label: '=> core.ref.icon'
       icon_text: '=> core.ref.icon_text'
       name_label: نام
       plural_placeholder: 'جمع (برای مثال: مد ها)'
@@ -143,6 +145,7 @@ core:
       configure_scopes: 'پیکربندی محدوده'
       confirm_purge: 'پاکسازی ، تمام ورودی‌های پایگاه داده و دارایی‌های مربوط به افزودنی را حذف می‌کند . این مورد افزودنی را حذف نصب نمی کند ; این مورد باید توسط Composer انجام شود . آیا اطمینان دارید که می خواهید ادامه دهید ؟'
       confirm_uninstall: 'حذف ، تمام ورودی های پایگاه داده و دارایی های مربوط به افزونه را حذف می کند . آیا مطمئن هستید که میخواهید ادامه دهید ؟'
+      deprecated: منسوخ
       disabled: 'غیرفعال شد'
       enable_to_see: 'افزونه را برای مشاهده و تغییر تنظیمات فعال کنید .'
       enabled: 'فعال شد'
@@ -420,7 +423,7 @@ core:
       invalid_login_message: 'اطلاعات واردشده صحیح نیست.'
       password_placeholder: '=> core.ref.password'
       remember_me_label: 'مرا به خاطر بسپار'
-      sign_up_text: 'حساب کاربری ندارید؟ <a>ثبت‌نام</a> کنید.'
+      sign_up_text: 'حساب کاربری ندارید؟ <a>ثبت‌نام کنید</a>'
       submit_button: '=> core.ref.log_in'
       title: '=> core.ref.log_in'
       username_or_email_placeholder: 'نام کاربری یا ایمیل'
@@ -594,8 +597,8 @@ core:
     loading_indicator:
       accessible_label: '=> core.ref.loading'
     meta_titles:
-      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: Page # - {forumName}}}'
-      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {Page # - {forumName}}}'
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: صفحه # - {forumName}}}'
+      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {صفحه # - {forumName}}}'
     modal:
       close: بستن
     nav:
@@ -653,7 +656,7 @@ core:
     search_users: 'جستجوی کاربر'
     security: امنیت
     settings: تنظیمات
-    sign_up: 'ثبت‌ نام'
+    sign_up: ثبت‌نام
     some_others: '{count, plural, one {# دیگر} other {# دیگر}}'
     start_a_discussion: 'شروع بحث جدید'
     username: 'نام کاربری'

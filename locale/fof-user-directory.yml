@@ -3,9 +3,19 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-user-directory:
+  admin:
+    settings:
+      default-sort: 'سورت پیش‌فرض'
   forum:
     hero:
       title: '=> fof-user-directory.forum.page.nav'
     page:
       load_more_button: '=> core.ref.load_more'
       refresh_tooltip: '=> core.forum.index.refresh_tooltip'
+    search:
+      kinds:
+        group: گروه
+  lib:
+    sort:
+      default: پیش‌فرض
+      not_specified: 'از پیش‌فرض Flarum استفاده کنید'

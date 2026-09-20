@@ -11,6 +11,7 @@ huseyinfiliz-diff:
       revisionWithNumber: '=> huseyinfiliz-diff.ref.revisionWithNumber'
     editedInfo: '=> core.forum.post.edited_tooltip'
     editedText: '=> core.forum.post.edited_text'
+    optionsButton: گزینه‌ها
     previewMode:
       currentContent: '=> huseyinfiliz-diff.ref.currentContent'
       originalContent: '=> huseyinfiliz-diff.ref.originalContent'

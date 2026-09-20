@@ -22,6 +22,7 @@ datlechin-birthdays:
   forum:
     change_dob:
       date_of_birth_text: 'تاریخ تولد'
+      submit_button: '=> core.ref.save_changes'
       title: 'ویرایش تاریخ تولد'
     edit_user:
       dob_heading: 'تاریخ تولد'
