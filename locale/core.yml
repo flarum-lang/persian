@@ -488,7 +488,6 @@ core:
         title_placeholder: موضوع
       revoke_access_token: ابطال
       revoke_access_token_confirmation: '=> core.ref.generic_confirmation_message'
-      session_terminated: '{تعداد،مجموع، یک {Session terminated} از {# Sessions terminated}}.'
       session_termination_failed: 'درهنگام ازبین بردن نشست‌های شما خطایی رخ داد.'
       sessions_heading: 'نشست‌های فعال'
       show_access_token: 'مشاهده توکن'

@@ -21,7 +21,6 @@ fof-doorman:
         no_group: '=> core.admin.users.grid.columns.group_badges.no_badges'
         uses:
           total_uses: '{totalUses, plural, one {{totalUses} بار استفاده شده} other {{totalUses} بار استفاده شده}}'
-          used_times: '{remaining, plural, =0 {بهره‌وری نامحدود} one {{بهره‌وری مانده} use left} other {{بهره‌وری مانده} uses left}}'
         warning: 'این رمز فراخوانی بیشترین دفعات مجاز استفاده شده.'
     modals:
       create_doorkey:
