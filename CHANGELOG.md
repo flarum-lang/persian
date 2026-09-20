@@ -7,7 +7,7 @@ CHANGELOG
 
 **General changes**:
 
-* Updated Flarum core translations (90 added, 17 changed, 70 removed).
+* Updated Flarum core translations (90 added, 17 changed, 71 removed).
 * Updated validation translations (75 removed).
 
 
