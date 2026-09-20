@@ -5,9 +5,9 @@ CHANGELOG
 1.0.0 (XXXX-XX-XX)
 ------------------
 
-**تغییرات کلی**:
+**General changes**:
 
-* Updated Flarum core translations.
+* Updated Flarum core translations (3 added, 1 changed, 1 removed).
 
 
 **Added support for new extensions**:
@@ -65,20 +65,20 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
-* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
-* [`flarum/tags`](https://github.com/flarum/tags)
-* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
-* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
-* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users)
-* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
-* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
-* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
-* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
-* [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone)
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) (1 changed)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager) (1 changed)
+* [`flarum/tags`](https://github.com/flarum/tags) (2 changed)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips) (14 added)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) (2 added)
+* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users) (1 added)
+* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions) (2 added)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (10 added, 1 changed)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) (1 added)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms) (34 added)
+* [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) (7 added)
 
 
-تمام تغییرات: [0.4.1...1.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...1.0.0)
+All changes: [0.4.1...1.0.0](https://github.com/flarum-lang/persian/compare/0.4.1...1.0.0).
 
 
 0.4.1 (2024-12-12)
