@@ -5,6 +5,8 @@
 fof-blog:
   admin:
     blog: وبلاگ
+    settings:
+      blog_heading: وبلاگ
   forum:
     article:
       slug: اسلاگ

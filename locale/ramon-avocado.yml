@@ -11,6 +11,8 @@ ramon-avocado:
   forum:
     bookmarks:
       modal_cancel: لغو
+      modal_save: 'درج کردن'
+      save: 'درج کردن'
     discussion:
       post_plural: نوشته‌ها
     header:

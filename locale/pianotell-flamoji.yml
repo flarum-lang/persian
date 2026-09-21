@@ -4,6 +4,10 @@
 
 pianotell-flamoji:
   admin:
+    custom_emojis_section:
+      emoji_list:
+        rename_cancel_button: لغو
+        rename_save_button: 'درج کردن'
     settings:
       category_settings_heading: 'تنظیمات دسته‌بندی'
       emoji_categories:
