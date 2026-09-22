@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+1.0.1 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`fof/bookmarks`](https://github.com/FriendsOfFlarum/bookmarks)
+
+
+All changes: [1.0.0...1.0.1](https://github.com/flarum-lang/persian/compare/1.0.0...1.0.1).
+
+
 1.0.0 (2026-09-22)
 ------------------
 
