@@ -675,6 +675,7 @@ core:
     generic_confirmation_message: 'آیا مطمئن هستید که می خواهید ادامه دهید؟ این عمل قابل لغو نیست.'
     icon: آیکون
     icon_text: 'نام هر یک از کلاس آیکون های <a>FontAwesome</a> را وارد کنید که <em>شامل</em> پیشوند <code>fas fa-flag</code> یا <code>fa-solid fa-flag</code> باشد.'
+    latest: آخرین
     load_more: بیشتر
     loading: 'در حال بارگذاری ...'
     log_in: ورود

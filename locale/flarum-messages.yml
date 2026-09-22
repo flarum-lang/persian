@@ -21,6 +21,8 @@ flarum-messages:
       dropdown_tooltip: پیام‌ها
     index:
       messages_link: پیام‌ها
+    index_sort:
+      latest_button: آخرین
     message_controls:
       delete_button: حذف
     messages_page:

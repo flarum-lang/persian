@@ -6,4 +6,8 @@ flarum-audit:
   lib:
     browser:
       filterApply: اعمال
+      permissionGroup:
+        everyone: '=> core.admin.permissions_controls.everyone_button'
+        members: '=> core.admin.permissions_controls.members_button'
       refresh: 'تازه کردن'
+      withoutActor: '=> core.group.guest'

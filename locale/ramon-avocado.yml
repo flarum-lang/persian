@@ -13,6 +13,8 @@ ramon-avocado:
       modal_cancel: لغو
       modal_save: 'درج کردن'
       save: 'درج کردن'
+    changelog:
+      latest: آخرین
     discussion:
       post_plural: نوشته‌ها
     header:
@@ -23,6 +25,7 @@ ramon-avocado:
       sign_up: ثبت‌نام
     search:
       search_button: جستجو
+      sort_latest: آخرین
       tab_discussions: مباحث
       tab_posts: نوشته‌ها
       title: جستجو

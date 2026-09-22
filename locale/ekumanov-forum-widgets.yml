@@ -4,6 +4,15 @@
 
 ekumanov-forum-widgets:
   forum:
+    online_users:
+      guests: '{count, plural, one {مهمان} other {میهمانان}}'
     stats:
+      discussions_count: 'مباحث: {count}'
+      label_discussions: '{count, plural, one {بحث} other {مباحث}}'
+      label_posts: '{count, plural, one {نوشته‌} other {نوشته‌ها}}'
+      label_users: '{count, plural, one {کاربر} other {کاربران}}'
+      posts_count: 'نوشته‌ها: {count}'
       tooltip_discussions: مباحث
       tooltip_posts: نوشته‌ها
+      tooltip_users: کاربران
+      users_count: 'کاربران: {count}'
