@@ -2,6 +2,35 @@ CHANGELOG
 =========
 
 
+2.0.1 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (1 added).
+
+
+**Added support for new extensions**:
+
+* [`datlechin/flarum-more-discussions`](https://github.com/datlechin/flarum-more-discussions)
+* [`ernestdefoe/topic-map`](https://github.com/ernestdefoe/topic-map)
+* [`forumaker/statser`](https://github.com/forumaker/Statser)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
+
+
+**Updated translations for extensions**:
+
+* [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget) (8 added)
+* [`flarum/audit`](https://github.com/flarum/audit) (3 added)
+* [`flarum/messages`](https://github.com/flarum/messages) (1 added)
+* [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget) (1 added)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (2 added)
+
+
+All changes: [2.0.0...2.0.1](https://github.com/flarum-lang/persian/compare/2.0.0...2.0.1).
+
+
 2.0.0 (2026-09-22)
 ------------------
 
