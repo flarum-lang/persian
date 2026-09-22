@@ -14,6 +14,7 @@ CHANGELOG
 
 * [`datlechin/flarum-more-discussions`](https://github.com/datlechin/flarum-more-discussions)
 * [`ernestdefoe/topic-map`](https://github.com/ernestdefoe/topic-map)
+* [`fof/bookmarks`](https://github.com/FriendsOfFlarum/bookmarks)
 * [`forumaker/statser`](https://github.com/forumaker/Statser)
 * [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
 * [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
