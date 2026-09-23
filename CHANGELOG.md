@@ -7,41 +7,67 @@ CHANGELOG
 
 **General changes**:
 
-* Updated Flarum core translations (2 added).
+* Updated Flarum core translations (7 added).
 
 
 **Added support for new extensions**:
 
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
 * [`datlechin/flarum-debugbar`](https://github.com/datlechin/flarum-debugbar)
 * [`datlechin/flarum-more-discussions`](https://github.com/datlechin/flarum-more-discussions)
 * [`ernestdefoe/logo-manager`](https://github.com/ernestdefoe/logo-manager)
 * [`ernestdefoe/topic-map`](https://github.com/ernestdefoe/topic-map)
 * [`ffans/bbcode-studio`](https://github.com/FFans/bbcode-studio)
 * [`fof/bookmarks`](https://github.com/FriendsOfFlarum/bookmarks)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+* [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry)
+* [`forumaker/bento`](https://github.com/forumaker/Bento)
+* [`forumaker/profile-cover`](https://github.com/forumaker/Profile-Cover)
 * [`forumaker/statser`](https://github.com/forumaker/Statser)
+* [`huoxin/money-with-history`](https://github.com/huoxin233/flarum-ext-money-with-history)
+* [`huseyinfiliz/language-detection`](https://github.com/huseyinfiliz/language-detection)
+* [`huseyinfiliz/modern-footer`](https://github.com/huseyinfiliz/modern-footer)
+* [`lcoy/cipher`](https://github.com/Lcoy2004/Flarum-cipher)
 * [`linkrobins/referral`](https://github.com/linkrobins/referral)
 * [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
 * [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
+* [`peopleinside/flarum-ext-antiflood`](https://github.com/PeopleInside/flarum-ext-antiflood)
 * [`ramon/mail-reply`](https://github.com/ram0ng1/mail-reply)
 * [`ramon/verified`](https://github.com/ram0ng1/verified)
+* [`shebaoting/flarum-money`](https://github.com/shebaoting/flarum-money)
+* [`stezkoy/flarum-feed2forum`](https://github.com/Stezkoy/flarum-feed2forum)
+* [`stezkoy/flarum-pagify`](https://github.com/Stezkoy/flarum-pagify)
 * [`yippy/flarum-tag-with-themes`](https://github.com/Yippy/flarum-tag-with-themes)
 
 
 **Updated translations for extensions**:
 
+* [`datlechin/flarum-placements`](https://github.com/datlechin/flarum-placements) (3 added)
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide) (1 added)
 * [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget) (8 added)
+* [`ernestdefoe/connect`](https://github.com/ernestdefoe/connect) (1 added)
 * [`flarum/audit`](https://github.com/flarum/audit) (3 added)
 * [`flarum/messages`](https://github.com/flarum/messages) (1 added)
 * [`fof/badges`](https://github.com/FriendsOfFlarum/badges) (3 added)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (1 added)
 * [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget) (1 added)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (1 added)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) (1 added)
 * [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions) (1 added)
-* [`huoxin/filter-rule-manager`](https://github.com/huoxin233/flarum-ext-filter-rule-manager) (1 added)
+* [`huoxin/filter-rule-manager`](https://github.com/huoxin233/flarum-ext-filter-rule-manager) (3 added)
+* [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards) (1 added)
+* [`huseyinfiliz/leaderboard`](https://github.com/huseyinfiliz/leaderboard) (1 added)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind) (1 added)
 * [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor) (2 added)
-* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (2 added)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (1 added)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (3 added)
+* [`ramon/point-system`](https://github.com/ram0ng1/point-system) (1 added)
+* [`shebaoting/flarum-avatar`](https://github.com/shebaoting/flarum-avatar) (1 added)
 * [`stezkoy/flarum-modularis`](https://github.com/Stezkoy/flarum-modularis) (1 added)
 * [`stezkoy/flarum-time-of-magic`](https://github.com/Stezkoy/flarum-time-of-magic) (1 added)
 * [`sycho/flarum-advanced-extension-categories`](https://github.com/SychO9/flarum-advanced-extension-categories) (1 added)
 * [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating) (1 added)
+* [`xxb5724/catch-the-fish`](https://github.com/Xiaoxiaobai5724/catch-the-fish) (1 added)
 * [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap) (1 added)
 
 
