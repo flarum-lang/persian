@@ -8,9 +8,12 @@ linkrobins-support:
       column_slug: اسلاگ
       delete_button: حذف
       general_badge: عمومی
+      new_button: 'دسته‌بندی جدید'
     category_editor:
       field_slug: اسلاگ
       submit_update: 'ذخیره تغییرات'
+      title_edit: 'ویرایش دسته‌بندی'
+      title_new: 'دسته‌بندی جدید'
   forum:
     action:
       cancel: لغو

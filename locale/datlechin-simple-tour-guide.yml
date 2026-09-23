@@ -6,6 +6,9 @@ datlechin-simple-tour-guide:
   admin:
     settings:
       heading: تنظیمات
+    tour_modal:
+      key_label: کلید
+      title_label: نام
   forum:
     picker:
       cancel: لغو

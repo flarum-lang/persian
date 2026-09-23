@@ -8,3 +8,5 @@ ramon-verified:
       tiers:
         badge_switch_off: 'غیرفعال شد'
         badge_switch_on: 'فعال شد'
+    tabs:
+      general: تنظیمات

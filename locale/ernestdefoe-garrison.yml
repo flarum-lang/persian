@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 ernestdefoe-garrison:
+  admin:
+    field_join_password: 'رمز عبور'
   forum:
     backups:
       cancel: لغو
+    join_password: 'رمز عبور'

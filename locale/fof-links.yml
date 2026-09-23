@@ -16,3 +16,5 @@ fof-links:
     links:
       create_button: '=> fof-links.ref.create_link'
       links: '=> fof-links.ref.links'
+    settings:
+      heading: تنظیمات

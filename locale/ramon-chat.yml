@@ -11,9 +11,12 @@ ramon-chat:
   forum:
     composer:
       cancel_edit: لغو
+    info:
+      category: دسته‌بندی
     message:
       delete: حذف
     new_channel:
       cancel: لغو
+      category: دسته‌بندی
     selection:
       cancel: لغو

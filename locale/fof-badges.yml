@@ -4,6 +4,7 @@
 
 fof-badges:
   admin:
+    badge_category: دسته‌بندی
     badge_name: نام
     badge_slug: اسلاگ
     cancel: لغو
@@ -13,6 +14,7 @@ fof-badges:
     delete: حذف
     disabled: 'غیرفعال شد'
     edit: ویرایش
+    edit_category: 'ویرایش دسته‌بندی'
     enabled: 'فعال شد'
     headers:
       name: نام
@@ -28,6 +30,7 @@ fof-badges:
     settings:
       primary_badge_icon: 'فقط نماد'
       primary_badge_icon_name: 'نماد و نام'
+      save: 'درج کردن تنظیمات'
     tabs:
       categories: دسته‌بندی‌ها
       settings: تنظیمات

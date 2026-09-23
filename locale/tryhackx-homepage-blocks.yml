@@ -6,3 +6,5 @@ tryhackx-homepage-blocks:
   admin:
     whitelist:
       scan_cancel: لغو
+  forum:
+    filter_category: دسته‌بندی

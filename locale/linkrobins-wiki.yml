@@ -8,10 +8,15 @@ linkrobins-wiki:
       column_name: نام
       column_slug: اسلاگ
       delete_button: حذف
+      new_button: 'دسته‌بندی جدید'
     category_editor:
       field_name: نام
       field_slug: اسلاگ
+      title_edit: 'ویرایش دسته‌بندی'
+      title_new: 'دسته‌بندی جدید'
   forum:
     action:
       cancel: لغو
       delete: حذف
+    compose:
+      category_label: دسته‌بندی

@@ -79,6 +79,7 @@ fof-doorman:
           label: 'بیشترین دفعات بهره‌برداری'
     settings:
       create_doorkey_button: 'ساختن رمز فراخوانی'
+      heading: تنظیمات
       optional_usage: 'وارد کردن رمز فراخوانی در زمان ثبت‌نام اختیاری باشد'
       search: 'جست و جوی کلیدها'
       total_doorkeys: 'تعداد کل کلیدها: {count}'

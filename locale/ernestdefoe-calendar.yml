@@ -6,4 +6,5 @@ ernestdefoe-calendar:
   forum:
     birthday_save: 'درج کردن'
     cancel: لغو
+    field_category: دسته‌بندی
     section_details: جزئیات

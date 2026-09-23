@@ -5,10 +5,36 @@
 datitisev-backup:
   admin:
     adapter-settings-modal:
+      aws:
+        credentials-key:
+          label: کلید
       ftp:
+        password:
+          label: 'رمز عبور'
+        port:
+          label: پورت
+        ssl:
+          toggle: SSL
         username:
           label: 'نام کاربری'
       gdrive:
         client-id:
           label: 'شناسه مشتری'
+        folder:
+          description: 'https://drive.google.com/drive/u/0/folders/ID'
+      sftp:
+        host: '=> datitisev-backup.admin.adapter-settings-modal.ftp.host'
+        password: '=> datitisev-backup.admin.adapter-settings-modal.ftp.password'
+        port:
+          label: پورت
+        root: '=> datitisev-backup.admin.adapter-settings-modal.ftp.root'
+        timeout: '=> datitisev-backup.admin.adapter-settings-modal.ftp.timeout'
+        username: '=> datitisev-backup.admin.adapter-settings-modal.ftp.username'
+    adapters:
+      aws: 'Amazon AWS S3'
+      azure: 'Microsoft Azure'
+      dropbox: Dropbox
+      ftp: FTP
+      gdrive: 'Google Drive'
+      sftp: SFTP
     delete_button: حذف

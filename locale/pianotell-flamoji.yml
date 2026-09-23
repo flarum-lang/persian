@@ -5,7 +5,12 @@
 pianotell-flamoji:
   admin:
     custom_emojis_section:
+      edit_emoji:
+        category_label: دسته‌بندی
+        saved_message: '=> core.admin.settings.saved_message'
+        submit_button: '=> core.ref.save_changes'
       emoji_list:
+        load_more_button: '=> core.forum.post_stream.load_more_button'
         rename_cancel_button: لغو
         rename_save_button: 'درج کردن'
     settings:
@@ -20,6 +25,7 @@ pianotell-flamoji:
         places: '=> pianotell-flamoji.ref.emoji_categories.places'
         symbols: '=> pianotell-flamoji.ref.emoji_categories.symbols'
       emoji_settings_heading: 'تنظیمات ایموجی'
+      picker_set_native: بومی
       picker_set_twemoji: Twemoji
   forum:
     composer:

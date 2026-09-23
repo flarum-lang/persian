@@ -5,6 +5,8 @@
 flarum-audit:
   lib:
     browser:
+      client:
+        api_key: 'کلید API'
       filterApply: اعمال
       permissionGroup:
         everyone: '=> core.admin.permissions_controls.everyone_button'

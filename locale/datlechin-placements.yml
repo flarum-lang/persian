@@ -4,6 +4,8 @@
 
 datlechin-placements:
   admin:
+    campaigns:
+      name: نام
     dimensions:
       route:
         names:
@@ -14,3 +16,6 @@ datlechin-placements:
       title: تنظیمات
     tabs:
       settings: تنظیمات
+  forum:
+    submissions:
+      name: نام

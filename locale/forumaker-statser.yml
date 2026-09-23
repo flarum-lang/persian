@@ -6,6 +6,7 @@ forumaker-statser:
   forum:
     routes:
       discussion: 'بحث «{title}»'
+      settings: تنظیمات
     widget:
       discussions: '{count, plural, one {بحث} other {مباحث}}'
       guests_label: میهمانان

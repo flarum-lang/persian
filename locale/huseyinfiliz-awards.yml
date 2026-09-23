@@ -4,10 +4,14 @@
 
 huseyinfiliz-awards:
   admin:
+    categories:
+      edit_title: 'ویرایش دسته‌بندی'
     nominees:
       reset: بازنشانی
     settings:
       title: تنظیمات
+    suggestions:
+      category: دسته‌بندی
     tabs:
       settings: تنظیمات
   forum:

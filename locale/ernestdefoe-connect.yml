@@ -5,4 +5,5 @@
 ernestdefoe-connect:
   admin:
     cancel: لغو
+    col_key: کلید
     zapier_settings_btn: تنظیمات

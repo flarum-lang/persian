@@ -6,6 +6,9 @@ yippy-auth-ldap:
   admin:
     settings:
       domains:
+        data:
+          admin_password: 'رمز عبور'
+          port: پورت
         is_enabled:
           disabled: 'غیرفعال شد'
   forum:
