@@ -4,8 +4,14 @@
 
 datlechin-placements:
   admin:
+    advertisers:
+      name: نام
+      name_label: نام
     campaigns:
       name: نام
+    creatives:
+      name: نام
+      name_label: نام
     dimensions:
       route:
         names:

@@ -6,3 +6,4 @@ maicol07-sso:
   admin:
     settings:
       client_api_key: 'کلید API'
+      client_name: نام

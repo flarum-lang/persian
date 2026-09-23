@@ -4,5 +4,7 @@
 
 ffans-bbcode-studio:
   admin:
+    fields:
+      name_label: نام
     status:
       disabled: 'غیرفعال شد'

@@ -12,5 +12,6 @@ ffans-threadmarks:
       icon_label: '=> core.ref.icon'
       icon_placeholder: 'fas fa-bookmark'
       key_label: '=> ffans-threadmarks.ref.key'
+      name_label: نام
   ref:
     key: کلید

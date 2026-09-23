@@ -5,7 +5,10 @@
 huoxin-filter-rule-manager:
   admin:
     cancel: لغو
+    headers:
+      name: نام
     ruleset_is_active: 'فعال شد'
+    ruleset_name: نام
     section_general: عمومی
     tabs:
       settings: تنظیمات

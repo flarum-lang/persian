@@ -8,6 +8,7 @@ shebaoting-dependency-collector:
       edit_tag_title: 'ویرایش دسته‌بندی - {name}'
       icon_options:
         tags: دسته‌بندی
+      tag_name_label: نام
       tag_slug_label: اسلاگ
     table:
       tag_slug: اسلاگ
