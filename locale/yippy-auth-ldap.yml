@@ -3,6 +3,11 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 yippy-auth-ldap:
+  admin:
+    settings:
+      domains:
+        is_enabled:
+          disabled: 'غیرفعال شد'
   forum:
     errors:
       core_csrf_token_mismatch: '=> core.views.error.csrf_token_mismatch'

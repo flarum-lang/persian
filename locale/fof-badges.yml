@@ -7,10 +7,13 @@ fof-badges:
     badge_name: نام
     badge_slug: اسلاگ
     cancel: لغو
+    category_enabled: 'فعال شد'
     category_name: نام
     category_slug: اسلاگ
     delete: حذف
+    disabled: 'غیرفعال شد'
     edit: ویرایش
+    enabled: 'فعال شد'
     headers:
       name: نام
     next: بعدی

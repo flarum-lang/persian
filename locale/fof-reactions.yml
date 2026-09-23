@@ -18,6 +18,8 @@ fof-reactions:
       reactions:
         Helptext: 'نام (شناسه) یکی از ایموجی‌ها یا شکلک‌های font-awsome را وارد کنید و مدلی که دوست دارید را انتخاب کنید.'
         delete_confirmation: 'مطمئنید می‌خواهید این واکنش را پاک کنید؟ این عمل قابل بازگشت نخواهد بود.'
+        header:
+          enabled: 'فعال شد'
         help:
           display: نمایش
           identifier: شناسه

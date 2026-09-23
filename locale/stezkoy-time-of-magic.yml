@@ -5,4 +5,5 @@
 stezkoy-time-of-magic:
   admin:
     scheduler_cancel_button: لغو
+    scheduler_enabled_label: 'فعال شد'
     scheduler_modal_save: 'درج کردن'

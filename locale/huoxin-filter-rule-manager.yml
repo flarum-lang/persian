@@ -5,3 +5,4 @@
 huoxin-filter-rule-manager:
   admin:
     cancel: لغو
+    ruleset_is_active: 'فعال شد'

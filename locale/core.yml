@@ -183,6 +183,8 @@ core:
         title: 'مستندات {extName}'
       reset_settings:
         cancel_button: لغو
+    extensions-health-widget:
+      section_disabled_heading: 'غیرفعال شد'
     failed_jobs:
       delete: حذف
       details: جزئیات

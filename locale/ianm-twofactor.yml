@@ -3,6 +3,10 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 ianm-twofactor:
+  email:
+    status_type:
+      disabled: 'غیرفعال شد'
+      enabled: 'فعال شد'
   forum:
     security:
       cancel_button: لغو

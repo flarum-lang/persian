@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 tryhackx-topic-rating:
+  admin:
+    settings:
+      tag_state_disabled: 'غیرفعال شد'
   forum:
     reset_modal:
       cancel: لغو
