@@ -4,5 +4,13 @@
 
 datlechin-placements:
   admin:
+    dimensions:
+      route:
+        names:
+          settings: تنظیمات
     review:
       cancel: لغو
+    settings:
+      title: تنظیمات
+    tabs:
+      settings: تنظیمات

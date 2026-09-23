@@ -6,3 +6,4 @@ linkrobins-referral:
   admin:
     settings:
       disabled: 'غیرفعال شد'
+      title: عمومی

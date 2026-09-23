@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 datlechin-simple-tour-guide:
+  admin:
+    settings:
+      heading: تنظیمات
   forum:
     picker:
       cancel: لغو

@@ -6,6 +6,9 @@ fof-polls:
   admin:
     permissions:
       view_results_without_voting: 'مشاهده نتایج بدون رای گیری'
+    settings:
+      general:
+        heading: 'تنظیمات عمومی'
   forum:
     composer_discussion:
       add_poll: '=> fof-polls.forum.moderation.add'

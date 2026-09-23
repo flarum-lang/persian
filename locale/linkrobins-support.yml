@@ -7,6 +7,7 @@ linkrobins-support:
     categories:
       column_slug: اسلاگ
       delete_button: حذف
+      general_badge: عمومی
     category_editor:
       field_slug: اسلاگ
       submit_update: 'ذخیره تغییرات'

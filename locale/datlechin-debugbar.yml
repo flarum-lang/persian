@@ -6,3 +6,5 @@ datlechin-debugbar:
   lib:
     extensions:
       enabled: 'فعال شد'
+    tabs:
+      settings: تنظیمات

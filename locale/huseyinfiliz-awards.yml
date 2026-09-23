@@ -4,6 +4,8 @@
 
 huseyinfiliz-awards:
   admin:
+    nominees:
+      reset: بازنشانی
     settings:
       title: تنظیمات
     tabs:

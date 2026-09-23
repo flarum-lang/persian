@@ -182,7 +182,11 @@ core:
         no_readme: 'به نظر نمی رسد این افزونه فایل README داشته باشد'
         title: 'مستندات {extName}'
       reset_settings:
+        button: 'بازنشانی تنظیمات'
         cancel_button: لغو
+        confirm_button: بازنشانی
+        title: 'بازنشانی تنظیمات'
+        title_extension: 'بازنشانی تنظیمات {extensionTitle}'
     extensions-health-widget:
       section_disabled_heading: 'غیرفعال شد'
     failed_jobs:
@@ -271,6 +275,9 @@ core:
       signup_open_button: باز
     queue_widget:
       refresh: 'تازه کردن'
+    search_source:
+      general:
+        heading: عمومی
     settings:
       saved_message: 'تغییرات شما ذخیره شد.'
       submit_button: '=> core.ref.save_changes'

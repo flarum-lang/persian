@@ -10,6 +10,8 @@ huseyinfiliz-rewind:
     settings:
       slide_discussion_count: مباحث
       slide_post_count: نوشته‌ها
+    tabs:
+      general: عمومی
   forum:
     community_slideshow:
       discussions: مباحث

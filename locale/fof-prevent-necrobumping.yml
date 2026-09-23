@@ -5,6 +5,7 @@
 fof-prevent-necrobumping:
   admin:
     settings:
+      general_heading: 'تنظیمات عمومی'
       tags_placeholder: پیش‌فرض
   forum:
     composer:

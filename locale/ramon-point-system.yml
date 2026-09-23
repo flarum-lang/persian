@@ -23,6 +23,7 @@ ramon-point-system:
       field_name: نام
     rules:
       save: 'ذخیره تغییرات'
+      section_general_title: عمومی
     save: 'درج کردن'
     submissions:
       refresh: 'تازه کردن'

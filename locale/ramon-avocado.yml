@@ -4,6 +4,8 @@
 
 ramon-avocado:
   admin:
+    edit_tag:
+      svg_size_reset: بازنشانی
     settings:
       disc_style_default: پیش‌فرض
       section_posts: نوشته‌ها

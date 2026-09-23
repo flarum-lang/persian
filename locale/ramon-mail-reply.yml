@@ -6,3 +6,4 @@ ramon-mail-reply:
   admin:
     settings:
       mode_disabled_option: 'غیرفعال شد'
+      tab_general: عمومی

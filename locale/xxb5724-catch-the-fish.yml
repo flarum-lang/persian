@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 xxb-catch-the-fish:
+  admin:
+    settings:
+      general: عمومی
   forum:
     edit-fish:
       name: نام
