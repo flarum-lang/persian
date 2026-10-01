@@ -5,8 +5,14 @@ CHANGELOG
 2.0.2 (XXXX-XX-XX)
 ------------------
 
+**General changes**:
+
+* Updated Flarum core translations (29 added, 12 changed).
+
+
 **Updated translations for extensions**:
 
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) (2 changed, 62% complete)
 * [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) (6 added, 44% complete)
 
 
