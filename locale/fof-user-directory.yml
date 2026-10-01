@@ -7,14 +7,22 @@ fof-user-directory:
     settings:
       default-sort: 'سورت پیش‌فرض'
   forum:
+    header:
+      back_to_user_directory_tooltip: 'بازگشت به سیاههٔ کاربران'
     hero:
       title: '=> fof-user-directory.forum.page.nav'
     page:
+      empty_text: 'نتوانستیم هیچ کاربری مطابق با جست‌و‌جو شما پیدا کنیم.'
       load_more_button: '=> core.ref.load_more'
+      nav: 'سیاهه کاربران'
       refresh_tooltip: '=> core.forum.index.refresh_tooltip'
     search:
+      field:
+        placeholder: '‪جست‌و‌جو همه کاربران'
       kinds:
         group: گروه
+        text: 'متن آزاد'
+      users_heading: 'جست‌و‌جو همه کاربران برای «{query}»'
   lib:
     sort:
       default: پیش‌فرض
