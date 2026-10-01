@@ -12,7 +12,8 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) (3 added, 4 changed, 78% complete)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) (15 added, 17 changed, 96% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 added, 1% complete)
 * [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) (6 added, 44% complete)
 
 
