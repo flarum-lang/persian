@@ -2,6 +2,11 @@
 # Use https://weblate.rob006.net/projects/flarum2/fof-upload/fa/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
+flarum-gdpr:
+  lib:
+    data:
+      uploads:
+        export_description: 'همهٔ پرونده‌های بارگذاری‌شده توسط کاربر.'
 fof-upload:
   admin:
     labels:
