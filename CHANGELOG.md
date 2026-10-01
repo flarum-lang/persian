@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+1.0.2 (XXXX-XX-XX)
+------------------
+
+**Updated translations for extensions**:
+
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) (6 added, 44% complete)
+
+
+All changes: [1.0.1...1.0.2](https://github.com/flarum-lang/persian/compare/1.0.1...1.0.2).
+
+
 1.0.1 (2026-09-24)
 ------------------
 
