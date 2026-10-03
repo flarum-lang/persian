@@ -10,8 +10,15 @@ CHANGELOG
 * Updated Flarum core translations (32 added, 13 changed).
 
 
+**Added support for new extensions**:
+
+* [`fof/signature`](https://github.com/FriendsOfFlarum/signature) (100% complete)
+
+
 **Updated translations for extensions**:
 
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog) (8 added, 13% complete)
+* [`fof/categories`](https://github.com/FriendsOfFlarum/categories) (21 added, 100% complete)
 * [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) (15 added, 17 changed, 96% complete)
 * [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 added, 1% complete)
 * [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) (6 added, 44% complete)
