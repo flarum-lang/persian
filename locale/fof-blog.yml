@@ -5,8 +5,16 @@
 fof-blog:
   admin:
     blog: وبلاگ
+    permissions:
+      approve_posts: 'اجازهٔ تأیید مقاله‌های وب‌نوشت'
+      auto_approve_posts: 'انتشار مقاله‌ها بدون تأیید'
+      write_articles: 'نوشتن و ویرایش مقاله‌های وب‌نوشت'
     settings:
       blog_heading: وبلاگ
+      featured_count_label: 'حداکثر پست‌های ویژه'
+      no_categories_selected: 'هیچ دسته‌بندی‌ای انتخاب نشده است'
+      select_categories_button: 'انتخاب دسته‌بندی‌های وبلاگ'
+      selected_category_count: '{count, plural, one {شما ۱ دسته‌بندی انتخاب کرده‌اید} other {شما # دسته‌بندی انتخاب کرده‌اید}}'
   forum:
     article:
       slug: اسلاگ

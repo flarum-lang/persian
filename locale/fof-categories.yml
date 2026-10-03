@@ -6,11 +6,37 @@ fof-categories:
   admin:
     basics:
       categories_label: دسته‌بندی‌ها
+    headings:
+      child_display: 'نمایش دسته‌بندی فرزند'
+      layout: طرح‌بندی
+      nav: ناوبری
+      parent_display: 'نمایش دسته‌بندی والد'
+      performance: عملکرد
+    help:
+      child_bare_icon: 'آیا آیکون‌های دسته‌بندی‌های فرزند بدون پس‌زمینهٔ دایره‌ای نمایش داده شوند؟'
+      full_page_desktop: 'آیا منوی ناوبری نوار کناری به یک سطر جمع شود (مانند صفحهٔ سنتی برچسب‌ها)؟ این کار همچنین ویجت‌ها (مانند «آمار انجمن دوستان فلاروم») را از نوار ناوبری صفحهٔ دسته‌بندی‌ها پنهان خواهد کرد.'
+      small_forum_optimized: 'این کار شمار دقیق‌تری از گفتگوها/نوشته‌ها ارائه می‌دهد، اما انجمن‌های متوسط و بزرگ را به‌شدت کند می‌کند.'
+    labels:
+      child_bare_icon: 'آیکون‌های فرزند ساده؟'
+      compact_mobile_mode: 'حالت فشردهٔ موبایل'
+      full_page_desktop: 'دسکتاپ تمام‌صفحه؟'
+      keep_tags_nav: 'پیوند صفحهٔ برچسب‌ها در نوار کناری ناوبری نگه داشته شود؟'
+      parent_remove_description: 'پنهان‌سازی توصیفات برچسب‌های سطح بالا؟'
+      parent_remove_icon: 'پنهان‌سازی آیکون‌های برچسب‌های سطح بالا؟'
+      parent_remove_last_discussion: 'پنهان‌سازی تازه‌ترین گفتگوها برای برچسب‌های سطح بالا؟'
+      parent_remove_stats: 'پنهان‌سازی آمار برچسب‌های سطح بالا؟'
+      small_forum_optimized: 'بهینه‌سازی برای انجمن‌های کوچک؟'
+    title: 'تنظیمات دسته‌بندی‌ها'
   forum:
     all_categories:
+      meta_description_text: 'همهٔ دسته‌بندی‌ها'
       meta_title_text: '=> fof-categories.ref.categories'
+    header:
+      back_to_categories_tooltip: 'بازگشت به دسته‌بندی‌ها'
     index:
       categories_link: '=> fof-categories.ref.categories'
+    last_discussion_widget:
+      no_discussions: 'هنوز گفت و گویی وجود ندارد!'
     stat-widgets:
       discussion_label: مباحث
       post_label: نوشته‌ها
