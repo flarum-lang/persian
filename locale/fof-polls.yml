@@ -6,6 +6,16 @@ fof-polls:
   admin:
     permissions:
       view_results_without_voting: 'مشاهده نتایج بدون رای گیری'
+    settings:
+      allow_option_image: 'امکان وارد کردن نشانی اینترنتی یک تصویر برای هر گزینهٔ نظرسنجی'
+      general:
+        heading: 'تنظیمات عمومی'
+        help: 'این تنظیمات، ویژگی‌های اصلی افزونهٔ نظرسنجی را تعیین می‌کنند.'
+      global_polls:
+        heading: 'نظرسنجی‌های سراسری'
+        help: 'این تنظیمات، قابلیت نظرسنجی‌های سراسری را کنترل می‌کنند.'
+      image:
+        heading: 'تنظیمات تصویر'
   forum:
     composer_discussion:
       add_poll: '=> fof-polls.forum.moderation.add'
