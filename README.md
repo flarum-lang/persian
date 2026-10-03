@@ -125,6 +125,7 @@ php flarum cache:clear
 | [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-sentry/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-sentry/fa/) |
 | [`fof/seo`](https://github.com/FriendsOfFlarum/seo) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-seo/fa/) |
 | [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-share-social/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-share-social/fa/) |
+| [`fof/signature`](https://github.com/FriendsOfFlarum/signature) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-signature/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-signature/fa/) |
 | [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-socialprofile/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-socialprofile/fa/) |
 | [`fof/split`](https://github.com/FriendsOfFlarum/split) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-split/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-split/fa/) |
 | [`fof/terms`](https://github.com/FriendsOfFlarum/terms) | [![وضعیت ترجمه](https://weblate.rob006.net/widgets/flarum2/fa/fof-terms/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-terms/fa/) |
