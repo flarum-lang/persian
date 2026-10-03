@@ -2,6 +2,32 @@ CHANGELOG
 =========
 
 
+2.0.2 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (29 added, 12 changed).
+
+
+**Added support for new extensions**:
+
+* [`fof/signature`](https://github.com/FriendsOfFlarum/signature) (77% complete)
+
+
+**Updated translations for extensions**:
+
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog) (7 added, 11% complete)
+* [`fof/categories`](https://github.com/FriendsOfFlarum/categories) (21 added, 100% complete)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) (15 added, 14 changed, 84% complete)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (4 added, 23% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (2 added, 1% complete)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory) (6 added, 44% complete)
+
+
+All changes: [2.0.1...2.0.2](https://github.com/flarum-lang/persian/compare/2.0.1...2.0.2).
+
+
 2.0.1 (2026-09-24)
 ------------------
 
