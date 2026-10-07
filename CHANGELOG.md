@@ -13,6 +13,7 @@ CHANGELOG
 **Added support for new extensions**:
 
 * [`fof/signature`](https://github.com/FriendsOfFlarum/signature) (77% complete)
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl) (3% complete)
 
 
 **Updated translations for extensions**:
