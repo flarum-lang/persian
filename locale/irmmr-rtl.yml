@@ -5,4 +5,11 @@
 irmmr-rtl:
   admin:
     settings:
+      mappings:
+        add_button: 'افزودن قاعده'
+        type_options:
+          auto: خودکار
+          css: CSS
+          js: JS
+      rtl_languages_label: 'کدهای زبان از راست به چپ'
       rtl_languages_placeholder: 'fa, ar, he, ur'
