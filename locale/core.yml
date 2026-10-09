@@ -212,6 +212,8 @@ core:
         title_extension: 'بازنشانی تنظیمات {extensionTitle}'
     extensions-health-widget:
       section_disabled_heading: 'غیرفعال شد'
+      section_suggested_heading: پیشنهادی
+      suggested_by: 'پیشنهادی توسط {extension}'
     failed_jobs:
       delete: حذف
       details: جزئیات

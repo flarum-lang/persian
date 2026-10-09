@@ -8,6 +8,7 @@ ramon-avocado:
       svg_size_reset: بازنشانی
     settings:
       disc_style_default: پیش‌فرض
+      group_discussions: مباحث
       section_posts: نوشته‌ها
       section_search: جستجو
   forum:

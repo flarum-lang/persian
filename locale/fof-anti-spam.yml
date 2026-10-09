@@ -10,3 +10,5 @@ fof-anti-spam:
       button: تنظیمات
       stopforumspam:
         api_key_label: 'کلید API'
+    statistics:
+      total_label: مجموع

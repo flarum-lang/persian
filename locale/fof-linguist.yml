@@ -6,5 +6,8 @@ fof-linguist:
   admin:
     buttons:
       apply: اعمال
+    coverage:
+      columns:
+        total: مجموع
     tabs:
       strings: ترجمه‌ها
