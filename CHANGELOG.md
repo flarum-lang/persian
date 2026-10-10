@@ -2,6 +2,24 @@ CHANGELOG
 =========
 
 
+2.0.3 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (2 added).
+
+
+**Updated translations for extensions**:
+
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (1 added, 2% complete)
+* [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) (1 added, 3% complete)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (1 added, 4% complete)
+
+
+All changes: [2.0.2...2.0.3](https://github.com/flarum-lang/persian/compare/2.0.2...2.0.3).
+
+
 2.0.2 (2026-10-09)
 ------------------
 
