@@ -7,4 +7,13 @@ ernestdefoe-calendar:
     birthday_save: 'درج کردن'
     cancel: لغو
     field_category: دسته‌بندی
+    link: لینک
+    location: مکان
+    nav: تقویم
+    page_title: تقویم
     section_details: جزئیات
+    today: امروز
+    view_day: روز
+    view_list: فهرست
+    view_month: ماه
+    view_week: هفته
