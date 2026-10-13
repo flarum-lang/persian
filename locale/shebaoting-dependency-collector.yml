@@ -5,6 +5,7 @@
 shebaoting-dependency-collector:
   admin:
     modal:
+      tag_name_label: نام
       tag_slug_label: اسلاگ
     table:
       tag_slug: اسلاگ

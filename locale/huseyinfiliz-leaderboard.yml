@@ -7,6 +7,8 @@ huseyinfiliz-leaderboard:
     modals:
       cancel: لغو
       save: 'درج کردن'
+    tabs:
+      general: عمومی
   forum:
     podium:
       stat_discussions: مباحث

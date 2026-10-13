@@ -5,5 +5,11 @@
 flarum-audit:
   lib:
     browser:
+      client:
+        api_key: 'کلید API'
       filterApply: اعمال
+      permissionGroup:
+        everyone: '=> core.admin.permissions_controls.everyone_button'
+        members: '=> core.admin.permissions_controls.members_button'
       refresh: 'تازه کردن'
+      withoutActor: '=> core.group.guest'

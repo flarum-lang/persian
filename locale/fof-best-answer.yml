@@ -6,3 +6,5 @@ fof-best-answer:
   admin:
     settings:
       documentation: مدارک
+      label:
+        general: عمومی

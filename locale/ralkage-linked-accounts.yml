@@ -9,4 +9,5 @@ ralkage-linked-accounts:
   forum:
     page:
       email: ایمیل
+      password: 'رمز عبور'
       username: 'نام کاربری'

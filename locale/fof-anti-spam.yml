@@ -8,3 +8,5 @@ fof-anti-spam:
       username: 'نام کاربری'
     settings:
       button: تنظیمات
+      stopforumspam:
+        api_key_label: 'کلید API'

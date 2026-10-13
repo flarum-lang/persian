@@ -9,6 +9,10 @@ flarum-gdpr:
         delete_description: 'همهٔ فایل‌های بارگذاری‌شده توسط کاربر را حذف می‌کند.'
         export_description: 'همهٔ پرونده‌های بارگذاری‌شده توسط کاربر.'
 fof-upload:
+  admin:
+    labels:
+      qiniu:
+        key: کلید
   forum:
     buttons:
       cancel: لغو

@@ -4,6 +4,8 @@
 
 sycho-ace:
   admin:
+    categories:
+      disabled: 'غیرفعال شد'
     category_selection:
       options:
         default: پیش‌فرض

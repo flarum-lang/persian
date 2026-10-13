@@ -8,3 +8,4 @@ fof-forum-stats-widget:
       stats:
         comment_post_count: نوشته‌ها
         discussion_count: مباحث
+        user_count: کاربران
