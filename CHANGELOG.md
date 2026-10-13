@@ -17,7 +17,7 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (9 added, 9% complete)
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (9 added, 8% complete)
 * [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (1 added, 2% complete)
 * [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) (1 added, 3% complete)
 * [`ramon/avocado`](https://github.com/ram0ng1/avocado) (1 added, 4% complete)
