@@ -2,6 +2,59 @@ CHANGELOG
 =========
 
 
+1.0.3 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) (4% complete)
+* [`datlechin/flarum-more-discussions`](https://github.com/datlechin/flarum-more-discussions) (6% complete)
+* [`datlechin/flarum-tag-passwords`](https://github.com/datlechin/flarum-tag-passwords) (2% complete)
+* [`ffans/threadmarks`](https://github.com/FFans/threadmarks) (7% complete)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (18% complete)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip) (1% complete)
+* [`fof/pwa`](https://github.com/FriendsOfFlarum/pwa) (1% complete)
+* [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry) (2% complete)
+* [`huoxin/money-with-history`](https://github.com/huoxin233/flarum-ext-money-with-history) (2% complete)
+* [`huseyinfiliz/language-detection`](https://github.com/huseyinfiliz/language-detection) (1% complete)
+* [`huseyinfiliz/modern-footer`](https://github.com/huseyinfiliz/modern-footer) (3% complete)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title) (3% complete)
+* [`maicol07/flarum-ext-sso`](https://github.com/maicol07/flarum-ext-sso) (7% complete)
+* [`michaelbelgium/flarum-ai-autoreply`](https://github.com/MichaelBelgium/flarum-ai-autoreply) (4% complete)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views) (10% complete)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views) (20% complete)
+* [`peopleinside/flarum-ext-antiflood`](https://github.com/PeopleInside/flarum-ext-antiflood) (5% complete)
+* [`shebaoting/flarum-money`](https://github.com/shebaoting/flarum-money) (1% complete)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks) (0% complete)
+* [`yippy/flarum-tag-with-themes`](https://github.com/Yippy/flarum-tag-with-themes) (1% complete)
+
+
+**Updated translations for extensions**:
+
+* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup) (11 added, 14% complete)
+* [`flarum/audit`](https://github.com/flarum/audit) (4 added, 4% complete)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (1 added, 4% complete)
+* [`fof/author-change`](https://github.com/FriendsOfFlarum/author-change) (1 added, 12% complete)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges) (6 added, 8% complete)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (1 added, 2% complete)
+* [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget) (1 added, 50% complete)
+* [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) (1 added, 3% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (1 added, 2% complete)
+* [`huoxin/filter-rule-manager`](https://github.com/huoxin233/flarum-ext-filter-rule-manager) (5 added, 2% complete)
+* [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards) (3 added, 4% complete)
+* [`huseyinfiliz/leaderboard`](https://github.com/huseyinfiliz/leaderboard) (1 added, 5% complete)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor) (2 added, 4% complete)
+* [`pianotell/flarum-ext-flamoji`](https://github.com/PrimateCoder/flarum-flamoji) (7 added, 37% complete)
+* [`quasimo/flarum-ext-carousel-grids`](https://github.com/Quasimo/flarum-ext-carousel-grids) (1 added, 8% complete)
+* [`ralkage/flarum-ext-linked-accounts`](https://github.com/Ralkage/flarum-ext-linked-accounts) (1 added, 7% complete)
+* [`shebaoting/flarum-dependency-collector`](https://github.com/shebaoting/flarum-dependency-collector) (1 added, 4% complete)
+* [`sycho/flarum-advanced-extension-categories`](https://github.com/SychO9/flarum-advanced-extension-categories) (1 added, 22% complete)
+* [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap) (3 added, 7% complete)
+
+
+All changes: [1.0.2...1.0.3](https://github.com/flarum-lang/persian/compare/1.0.2...1.0.3).
+
+
 1.0.2 (2026-10-09)
 ------------------
 
