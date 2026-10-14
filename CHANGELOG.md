@@ -12,6 +12,7 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`ernestdefoe/waymark`](https://github.com/ernestdefoe/waymark) (1% complete)
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (18% complete)
 
 
