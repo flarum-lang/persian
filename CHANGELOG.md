@@ -18,8 +18,12 @@ CHANGELOG
 **Updated translations for extensions**:
 
 * [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (9 added, 8% complete)
+* [`flarum/messages`](https://github.com/flarum/messages) (1 added, 28% complete)
 * [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (1 added, 2% complete)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog) (2 added, 13% complete)
 * [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) (1 added, 3% complete)
+* [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards) (4 added, 6% complete)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (1 added, 3% complete)
 * [`ramon/avocado`](https://github.com/ram0ng1/avocado) (1 added, 4% complete)
 
 
