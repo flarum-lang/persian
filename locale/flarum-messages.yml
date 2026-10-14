@@ -32,5 +32,7 @@ flarum-messages:
       stream:
         time_lapsed_text: '=> core.forum.post_stream.time_lapsed_text'
       title: پیام‌ها
+    search_source:
+      heading: پیام‌ها
     user_controls:
       send_message_button: 'ارسال پیام'

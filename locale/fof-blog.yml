@@ -11,6 +11,7 @@ fof-blog:
       write_articles: 'نوشتن و ویرایش مقاله‌های وب‌نوشت'
     settings:
       blog_heading: وبلاگ
+      categories_heading: دسته‌بندی‌ها
       featured_count_label: 'حداکثر پست‌های ویژه'
       no_categories_selected: 'هیچ دسته‌بندی‌ای انتخاب نشده است'
       select_categories_button: 'انتخاب دسته‌بندی‌های وبلاگ'
@@ -18,4 +19,5 @@ fof-blog:
   forum:
     article:
       slug: اسلاگ
+    categories: دسته‌بندی‌ها
     read_more: 'بیشتر بخوانید'

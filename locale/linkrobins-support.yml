@@ -15,6 +15,8 @@ linkrobins-support:
       submit_update: 'ذخیره تغییرات'
       title_edit: 'ویرایش دسته‌بندی'
       title_new: 'دسته‌بندی جدید'
+    nav:
+      categories: دسته‌بندی‌ها
   forum:
     action:
       cancel: لغو
