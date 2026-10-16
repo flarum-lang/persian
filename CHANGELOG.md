@@ -15,7 +15,7 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (1 added, 9% complete)
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (1 added, 8% complete)
 * [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (2 added, 31% complete)
 
 
