@@ -2,6 +2,26 @@ CHANGELOG
 =========
 
 
+2.0.4 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-prominent-post-numbers`](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers) (50% complete)
+* [`fof/usercard-stats`](https://github.com/FriendsOfFlarum/usercard-stats) (100% complete)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (1% complete)
+* [`prm/analytics`](https://github.com/smmpanelscripts1/prm-analytics) (2% complete)
+
+
+**Updated translations for extensions**:
+
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (1 added, 9% complete)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (2 added, 31% complete)
+
+
+All changes: [2.0.3...2.0.4](https://github.com/flarum-lang/persian/compare/2.0.3...2.0.4).
+
+
 2.0.3 (2026-10-15)
 ------------------
 
