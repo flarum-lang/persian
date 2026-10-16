@@ -3,8 +3,12 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-forum-statistics-widget:
+  admin:
+    settings:
+      classic_look_label: 'ظاهر کلاسیک'
   forum:
     navbar:
       discussions_count: 'مباحث: {discussionsCount}'
+      latest_member: '‮جدیدترین عضو: '
       posts_count: 'نوشته‌ها: {postsCount}'
       users_count: 'کاربران: {usersCount}'

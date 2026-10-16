@@ -11,6 +11,7 @@ ernestdefoe-calendar:
     location: مکان
     nav: تقویم
     page_title: تقویم
+    pulse_total: '{count} نوشته‌ها (120d)'
     section_details: جزئیات
     today: امروز
     view_day: روز
