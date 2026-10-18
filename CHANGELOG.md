@@ -8,6 +8,7 @@ CHANGELOG
 **Added support for new extensions**:
 
 * [`clarkwinkelmann/flarum-ext-prominent-post-numbers`](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers) (50% complete)
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (3% complete)
 * [`fof/usercard-stats`](https://github.com/FriendsOfFlarum/usercard-stats) (100% complete)
 * [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (1% complete)
 * [`prm/analytics`](https://github.com/smmpanelscripts1/prm-analytics) (2% complete)
