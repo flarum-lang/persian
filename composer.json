@@ -30,7 +30,8 @@
 		},
 		"flarum-locale": {
 			"code": "fa",
-			"title": "فارسی"
+			"title": "فارسی",
+			"direction": "rtl"
 		},
 		"extiverse": {
 			"discuss": ""
