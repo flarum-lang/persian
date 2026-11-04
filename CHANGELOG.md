@@ -7,7 +7,7 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl) (11 added, 1 changed, 58% complete)
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl) (23 added, 2 changed, 100% complete)
 
 
 All changes: [2.0.5...2.0.6](https://github.com/flarum-lang/persian/compare/2.0.5...2.0.6).
