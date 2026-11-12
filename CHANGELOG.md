@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.6 (2026-11-12)
+------------------
+
+**Updated translations for extensions**:
+
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl) (23 added, 2 changed, 100% complete)
+
+
+All changes: [2.0.5...2.0.6](https://github.com/flarum-lang/persian/compare/2.0.5...2.0.6).
+
+
 2.0.5 (2026-10-28)
 ------------------
 
