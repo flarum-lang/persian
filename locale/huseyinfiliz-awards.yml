@@ -4,6 +4,8 @@
 
 huseyinfiliz-awards:
   admin:
+    awards:
+      categories: دسته‌بندی‌ها
     categories:
       edit_title: 'ویرایش دسته‌بندی'
     nominees:
@@ -13,10 +15,15 @@ huseyinfiliz-awards:
     suggestions:
       category: دسته‌بندی
     tabs:
+      categories: دسته‌بندی‌ها
       settings: تنظیمات
   forum:
+    nav:
+      categories: دسته‌بندی‌ها
     other:
       cancel: لغو
+    tabs:
+      categories: دسته‌بندی‌ها
   lib:
     save: 'ذخیره تغییرات'
     slug: اسلاگ
