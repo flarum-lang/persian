@@ -2,6 +2,31 @@ CHANGELOG
 =========
 
 
+1.0.4 (2026-11-23)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-prominent-post-numbers`](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers) (50% complete)
+* [`fof/usercard-stats`](https://github.com/FriendsOfFlarum/usercard-stats) (100% complete)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (1% complete)
+
+
+**Updated translations for extensions**:
+
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog) (2 added, 15% complete)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget) (2 added, 31% complete)
+* [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards) (4 added, 6% complete)
+
+
+All changes: [1.0.3...1.0.4](https://github.com/flarum-lang/persian/compare/1.0.3...1.0.4).
+
+
 1.0.3 (2026-10-14)
 ------------------
 
