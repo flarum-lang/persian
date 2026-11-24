@@ -5,6 +5,10 @@
 fof-rich-text:
   lib:
     composer:
+      bold_tooltip: 'متن پررنگ ({modifierKey}-b)'
+      code_block_tooltip: 'یک بلوک کد درج کنید'
+      horizontal_rule_tooltip: 'وارد کردن خط افقی'
+      image_tooltip: 'تصویری اضافه کنید'
       insert_button: درج
       insert_image:
         src_placeholder: لینک
@@ -13,3 +17,4 @@ fof-rich-text:
         href_placeholder: 'آدرس اینترنتی'
         remove_button: حذف
         text_placeholder: متن
+      link_tooltip: 'یک لینک اضافه کنید'

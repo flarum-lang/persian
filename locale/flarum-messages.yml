@@ -5,14 +5,18 @@
 flarum-messages:
   forum:
     composer:
+      placeholder: 'پیامی بنویسید...'
       recipients: گیرندگان
       submit_button: 'ارسال پیام'
       to: 'به:'
     dialog_list:
       load_more_button: '=> core.ref.load_more'
       mark_as_read_tooltip: 'علامت‌گذاری به‌عنوان خوانده'
+      own_last_message_preview: 'شما: {content}'
       title: پیام‌ها
+      unread_count_text: '{count} نخوانده'
     dialog_section:
+      back_label: بازگشت
       controls:
         details_button: جزئیات
       details_modal:
